@@ -92,15 +92,23 @@ export class AppComponent implements OnInit {
 
 	getHeroes() {
 		/**
-		 * SYNCHRONOUS - Loads service when app is loaded.
+		 * ASYNCHRONOUS - Act on the Promise
 		 * 
-		 * Our HeroService returns a list of mock heroes immediately. 
-		 * Its getHeroes signature is synchronous.
+		 * As a result of our change to HeroService, we're now setting 
+		 * this.heroes to a Promise rather than an array of heroes.
 		 *
 		 * More information
-		 * https://angular.io/docs/ts/latest/tutorial/toh-pt4.html#async-services-and-_promise-s
+		 * https://angular.io/docs/ts/latest/tutorial/toh-pt4.html#act-on-the-_promise-
 		 */
-		this.heroes = this.heroService.getHeroes();
+		
+		// Previously Synchronous 
+		//this.heroes = this.heroService.getHeroes();
+		
+		/**
+		 * Our callback sets the component's heroes property to 
+		 * the array of heroes returned by the service.
+		 */
+		this.heroService.getHeroes().then(heroes => this.heroes = heroes)
 	}
 
 	ngOnInit() {
