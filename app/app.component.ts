@@ -1,19 +1,9 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { Hero } from "./hero";
 import { HeroDetailComponent } from "./hero-detail.component";
 
-const HEROES: Hero[] = [
-  { id: 11, name: 'Mr. Nice' },
-  { id: 12, name: 'Narco' },
-  { id: 13, name: 'Bombasto' },
-  { id: 14, name: 'Celeritas' },
-  { id: 15, name: 'Magneta' },
-  { id: 16, name: 'RubberMan' },
-  { id: 17, name: 'Dynama' },
-  { id: 18, name: 'Dr IQ' },
-  { id: 19, name: 'Magma' },
-  { id: 20, name: 'Tornado' }
-];
+// Service Step 1
+import { HeroService } from "./hero.service";
 
 @Component({
 	selector: 'app',
@@ -82,15 +72,38 @@ const HEROES: Hero[] = [
 
 		<my-hero-detail [theHero]="selectedHero"></my-hero-detail>
 	`,
-	directives: [HeroDetailComponent]
+	directives: [HeroDetailComponent],
+	
+	// Service Step 2
+	providers: [HeroService]
 })
 
-export class AppComponent { 
+export class AppComponent implements OnInit { 
 	title: string = "Tour of Heroes";
-	heroes: Hero[] = HEROES;
+	heroes: Hero[];
 	selectedHero: Hero;
+
+	// Service Step 3
+	constructor(private heroService: HeroService) {}
 
 	onSelect(hero: Hero) {
 		this.selectedHero = hero;
+	}
+
+	getHeroes() {
+		/**
+		 * SYNCHRONOUS - Loads service when app is loaded.
+		 * 
+		 * Our HeroService returns a list of mock heroes immediately. 
+		 * Its getHeroes signature is synchronous.
+		 *
+		 * More information
+		 * https://angular.io/docs/ts/latest/tutorial/toh-pt4.html#async-services-and-_promise-s
+		 */
+		this.heroes = this.heroService.getHeroes();
+	}
+
+	ngOnInit() {
+		this.getHeroes();
 	}
 }
