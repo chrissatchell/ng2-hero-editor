@@ -7,6 +7,6 @@
         ],
         "file_exclude_patterns": [
         	"*.js","*.pyc", "*.pyo", ".project", ".*", "*.map",
-        	"CHANGELOG*","LICENSE","Dockerfile"]
+        	"CHANGELOG*","LICENSE","Dockerfile","*.spec*"]
     }]
 }

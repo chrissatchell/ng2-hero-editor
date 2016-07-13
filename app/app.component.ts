@@ -1,117 +1,51 @@
-import { Component, OnInit } from '@angular/core';
-import { Hero } from "./hero";
-import { HeroDetailComponent } from "./hero-detail.component";
-
-// Service Step 1
+import { Component } from "@angular/core";
+import { ROUTER_DIRECTIVES } from "@angular/router";
 import { HeroService } from "./hero.service";
 
 @Component({
-	selector: 'app',
-	styles: [`
-	  .selected {
-	    background-color: #CFD8DC !important;
-	    color: white;
-	  }
-	  .heroes {
-	    margin: 0 0 2em 0;
-	    list-style-type: none;
-	    padding: 0;
-	    width: 15em;
-	  }
-	  .heroes li {
-	    cursor: pointer;
-	    position: relative;
-	    left: 0;
-	    background-color: #EEE;
-	    margin: .5em;
-	    padding: .3em 0;
-	    height: 1.6em;
-	    border-radius: 4px;
-	  }
-	  .heroes li.selected:hover {
-	    background-color: #BBD8DC !important;
-	    color: white;
-	  }
-	  .heroes li:hover {
-	    color: #607D8B;
-	    background-color: #DDD;
-	    left: .1em;
-	  }
-	  .heroes .text {
-	    position: relative;
-	    top: -3px;
-	  }
-	  .heroes .badge {
-	    display: inline-block;
-	    font-size: small;
-	    color: white;
-	    padding: 0.8em 0.7em 0 0.7em;
-	    background-color: #607D8B;
-	    line-height: 1em;
-	    position: relative;
-	    left: -1px;
-	    top: -4px;
-	    height: 1.8em;
-	    margin-right: .8em;
-	    border-radius: 4px 0 0 4px;
-	  }
+	selector: 'my-app',
+	styles:[`
+		h1 {
+		  font-size: 1.2em;
+		  color: #999;
+		  margin-bottom: 0;
+		}
+		h2 {
+		  font-size: 2em;
+		  margin-top: 0;
+		  padding-top: 0;
+		}
+		nav a {
+		  padding: 5px 10px;
+		  text-decoration: none;
+		  margin-top: 10px;
+		  display: inline-block;
+		  background-color: #eee;
+		  border-radius: 4px;
+		}
+		nav a:visited, a:link {
+		  color: #607D8B;
+		}
+		nav a:hover {
+		  color: #039be5;
+		  background-color: #CFD8DC;
+		}
+		nav a.active {
+		  color: #039be5;
+		}
 	`],
 	template: `
 		<h1>{{title}}</h1>
-		<h2>My Heroes</h2>
-		<ul class="heroes">
-			<li 
-				*ngFor="let hero of heroes"
-				(click)="onSelect(hero)"
-				[class.selected]="hero === selectedHero"
-			>
-				<span class="badge">{{hero.id}}</span> 
-				{{hero.name}}
-			</li>
-		</ul>
-
-		<my-hero-detail [theHero]="selectedHero"></my-hero-detail>
+		<nav>
+			<a [routerLink]="['/dashboard']" routerLinkActive="active">Dashboard</a>
+			<a [routerLink]="['/heroes']" routerLinkActive="active">Heroes</a>
+		</nav>
+		<router-outlet></router-outlet>
 	`,
-	directives: [HeroDetailComponent],
-	
-	// Service Step 2
+	directives: [ROUTER_DIRECTIVES],
 	providers: [HeroService]
 })
 
-export class AppComponent implements OnInit { 
-	title: string = "Tour of Heroes";
-	heroes: Hero[];
-	selectedHero: Hero;
-
-	// Service Step 3
-	constructor(private heroService: HeroService) {}
-
-	onSelect(hero: Hero) {
-		this.selectedHero = hero;
-	}
-
-	getHeroes() {
-		/**
-		 * ASYNCHRONOUS - Act on the Promise
-		 * 
-		 * As a result of our change to HeroService, we're now setting 
-		 * this.heroes to a Promise rather than an array of heroes.
-		 *
-		 * More information
-		 * https://angular.io/docs/ts/latest/tutorial/toh-pt4.html#act-on-the-_promise-
-		 */
-		
-		// Previously Synchronous 
-		// this.heroes = this.heroService.getHeroes();
-		
-		/**
-		 * Our callback sets the component's heroes property to 
-		 * the array of heroes returned by the service.
-		 */
-		this.heroService.getHeroes().then(returnedFromService => this.heroes = returnedFromService)
-	}
-
-	ngOnInit() {
-		this.getHeroes();
-	}
+export class AppComponent {
+	title = "Tour of Heroes";
 }

@@ -25,5 +25,9 @@ export class HeroService {
 	  );
 	}
 
-
+	getHero(id: number) {
+		return this.getHeroes().then(heroes => // Get array of heroes
+			heroes.find(hero => hero.id === id)  // Loop through heroes and return hero object with a matching id
+		);
+	}
 }
