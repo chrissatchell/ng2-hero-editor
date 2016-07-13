@@ -1,150 +1,227 @@
-# Angular 2 QuickStart Source
+// ==========================================================================
+// main.ts
+// ==========================================================================
 
-This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
-the foundation for most of the documentation samples and potentially a good starting point for your application.
+import { bootstrap } from '@angular/platform-browser-dynamic';
+import { AppComponent } from './app.component';
+import { appRouterProviders } from "./app.routes";
 
-It's been extended with testing support so you can start writing tests immediately.
+bootstrap(AppComponent, [
+  appRouterProviders
+]);
 
-**This is not the perfect arrangement for your application. It is not designed for production.
-It exists primarily to get you started quickly with learning and prototyping in Angular 2**
+// ==========================================================================
+// app.routes.ts
+// ==========================================================================
 
-We are unlikely to accept suggestions about how to grow this QuickStart into something it is not.
-Please keep that in mind before posting issues and PRs.
+import { provideRouter, RouterConfig } from "@angular/router";
+import { HeroesComponent } from "./heroes.component";
+import { DashboardComponent } from "./dashboard.component";
+import { HeroDetailComponent } from "./hero-detail.component";
 
-## Prerequisites
+const routes: RouterConfig = [
+	{
+		path: 'heroes', 
+		component: HeroesComponent
+	},
+	{
+		path: 'dashboard',
+		component: DashboardComponent
+	},
+	
+	// Redirect '/' to '/dashboard'
+	{
+		path: '',
+		redirectTo: 'dashboard',
+		pathMatch: 'full'
+	},
 
-Node.js and npm are essential to Angular 2 development. 
-    
-<a href="https://docs.npmjs.com/getting-started/installing-node" target="_blank" title="Installing Node.js and updating npm">
-Get it now</a> if it's not already installed on your machine.
- 
-**Verify that you are running at least node `v5.x.x` and npm `3.x.x`**
-by running `node -v` and `npm -v` in a terminal/console window.
-Older versions produce errors.
+	// Route with parameter
+	{
+		path: 'detail/:id',
+		component: HeroDetailComponent
+	}
+];
 
-We recommend [nvm](https://github.com/creationix/nvm) for managing multiple versions of node and npm.
+export const appRouterProviders = [
+	provideRouter(routes)
+];
 
-## Create a new project based on the QuickStart
+// ==========================================================================
+// hero.service.ts
+// ==========================================================================
 
-Clone this repo into new project folder (e.g., `my-proj`).
-```bash
-git clone  https://github.com/angular/quickstart  my-proj
-cd my-proj
-```
+import { Injectable } from "@angular/core";
+import { HEROES } from "./mock-heroes";
+import { Hero } from "./hero";
 
-We have no intention of updating the source on `angular/quickstart`.
-Discard everything "git-like" by deleting the `.git` folder.
-```bash
-rm -rf .git  // non-Windows
-rd .git /S/Q // windows
-```
+@Injectable()
 
-### Create a new git repo
-You could [start writing code](#start-development) now and throw it all away when you're done.
-If you'd rather preserve your work under source control, consider taking the following steps.
+export class HeroService {
+	
+	getHeroes() {
+		
+		return new Promise<Hero[]>( (resolve, reject) => {
+			resolve(HEROES);
+		});
+		
+		/**
+		 * Simplier syntax 
+		 */
+		//return Promise.resolve(HEROES);
+	}
 
-Initialize this project as a *local git repo* and make the first commit:
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-```
+	getHeroesSlowly() {
+	  return new Promise<Hero[]>(resolve =>
+	    setTimeout(() => resolve(HEROES), 2000) // 2 seconds
+	  );
+	}
 
-Create a *remote repository* for this project on the service of your choice.
+	getHero(id: number) {
+		return this.getHeroes().then(heroes => // Get array of heroes
+			heroes.find(hero => hero.id === id)  // Loop through heroes and return hero object with a matching id
+		);
+	}
+}
 
-Grab its address (e.g. *`https://github.com/<my-org>/my-proj.git`*) and push the *local repo* to the *remote*.
-```bash
-git remote add origin <repo-address>
-git push -u origin master
-```
-## Install npm packages
+// ==========================================================================
+// app.component.ts
+// ==========================================================================
 
-> See npm and nvm version notes above
+import { Component } from "@angular/core";
+import { ROUTER_DIRECTIVES } from "@angular/router";
+import { HeroService } from "./hero.service";
 
-Install the npm packages described in the `package.json` and verify that it works:
+@Component({
+	selector: 'my-app',
+	template: `
+		<h1>{{title}}</h1>
+		<nav>
+			<a [routerLink]="['/dashboard']" routerLinkActive="active">Dashboard</a>
+			<a [routerLink]="['/heroes']" routerLinkActive="active">Heroes</a>
+		</nav>
+		<router-outlet></router-outlet>
+	`,
+	directives: [ROUTER_DIRECTIVES],
+	providers: [HeroService]
+})
 
-**Attention Windows Developers:  You must run all of these commands in administrator mode**.
+export class AppComponent {
+	title = "Tour of Heroes";
+}
 
-```bash
-npm install
-npm start
-```
+// ==========================================================================
+// dashboard.component.ts
+// ==========================================================================
 
-> If the `typings` folder doesn't show up after `npm install` please install them manually with:
+import { Component, OnInit } from "@angular/core";
+import { Hero } from './hero';
 
-> `npm run typings -- install`
+import { HeroService } from './hero.service';
+import { Router } from '@angular/router';
 
-The `npm start` command first compiles the application, 
-then simultaneously re-compiles and runs the `lite-server`.
-Both the compiler and the server watch for file changes.
+@Component({
+	selector: 'my-dashboard',
+	template: ``,
+	providers: [HeroService]
+})
 
-Shut it down manually with Ctrl-C.
+export class DashboardComponent implements OnInit {
 
-You're ready to write your application.
+	heroes: Hero[] = [];
 
-### npm scripts
+	constructor(
+		private heroService: HeroService,
+		private router: Router
+	) {}
 
-We've captured many of the most useful commands in npm scripts defined in the `package.json`:
+	ngOnInit() {
+		this.heroService.getHeroes().then( heroes => {
+			this.heroes = heroes.slice(0,4);
+			console.log(heroes, this.heroes);
+		});
+	}
+	
+	gotoDetail(hero: Hero) {
+		let link = ['/detail', hero.id]; //[path, route parameter]
+		this.router.navigate(link);
+	}
+}
 
-* `npm start` - runs the compiler and a server at the same time, both in "watch mode".
-* `npm run tsc` - runs the TypeScript compiler once.
-* `npm run tsc:w` - runs the TypeScript compiler in watch mode; the process keeps running, awaiting changes to TypeScript files and re-compiling when it sees them.
-* `npm run lite` - runs the [lite-server](https://www.npmjs.com/package/lite-server), a light-weight, static file server, written and maintained by
-[John Papa](https://github.com/johnpapa) and
-[Christopher Martin](https://github.com/cgmartin)
-with excellent support for Angular apps that use routing.
-* `npm run typings` - runs the typings tool.
-* `npm run postinstall` - called by *npm* automatically *after* it successfully completes package installation. This script installs the TypeScript definition files this app requires.
-Here are the test related scripts:
-* `npm test` - compiles, runs and watches the karma unit tests
-* `npm run e2e` - run protractor e2e tests, written in JavaScript (*e2e-spec.js)
+// ==========================================================================
+// heroes.component.ts
+// ==========================================================================
 
-## Testing
+import { Component, OnInit } from '@angular/core';
+import { Hero } from "./hero";
+import { HeroDetailComponent } from "./hero-detail.component";
 
-The QuickStart documentation doesn't discuss testing.
-This repo adds both karma/jasmine unit test and protractor end-to-end testing support.
+import { HeroService } from "./hero.service"; // Service
+import { Router } from "@angular/router";
 
-These tools are configured for specific conventions described below.
+@Component({
+	selector: 'my-heroes',
+	styles: [...],
+	template: `
+		<h2>My Heroes</h2>
+		<ul class="heroes">
+			<li 
+				*ngFor="let hero of heroes"
+				(click)="onSelect(hero)"
+				[class.selected]="hero === selectedHero"
+			>
+				<span class="badge">{{hero.id}}</span> 
+				{{hero.name}}
+			</li>
+		</ul>
 
-*It is unwise and rarely possible to run the application, the unit tests, and the e2e tests at the same time.
-We recommend that you shut down one before starting another.*
+    <div *ngIf="selectedHero">
+    	<h2>
+				{{selectedHero.name | uppercase}} is my hero!
+    	</h2>
+    	<button (click)="gotoDetail()">View Details</button>
+    </div>
+	`
+})
 
-### Unit Tests
-TypeScript unit-tests are usually in the `app` folder. Their filenames must end in `.spec`.
+export class HeroesComponent implements OnInit { 
+	heroes: Hero[];
+	selectedHero: Hero;
 
-Look for the example `app/app.component.spec.ts`.
-Add more `.spec.ts` files as you wish; we configured karma to find them.
+	constructor(
+		private heroService: HeroService,
+		private router: Router
+	) {}
 
-Run it with `npm test`
 
-That command first compiles the application, then simultaneously re-compiles and runs the karma test-runner.
-Both the compiler and the karma watch for (different) file changes.
+	getHeroes() {
 
-Shut it down manually with Ctrl-C.
+		/**
+		 * Our callback sets the component's heroes property to 
+		 * the array of heroes returned by the service.
+		 */
+		this.heroService.getHeroes().then(returnedFromService => this.heroes = returnedFromService);
 
-Test-runner output appears in the terminal window.
-We can update our app and our tests in real-time, keeping a weather eye on the console for broken tests.
-Karma is occasionally confused and it is often necessary to shut down its browser or even shut the command down (Ctrl-C) and
-restart it. No worries; it's pretty quick.
+	}
 
-The `HTML-Reporter` is also wired in. That produces a prettier output; look for it in `~_test-output/tests.html`.
+	ngOnInit() {
+		this.getHeroes();
+	}
 
-### End-to-end (E2E) Tests
+	onSelect(hero: Hero) {
+		this.selectedHero = hero;
+	}
 
-E2E tests are in the `e2e` directory, side by side with the `app` folder.
-Their filenames must end in `.e2e-spec.ts`.
+	gotoDetail() {
+		this.router.navigate(['/detail', this.selectedHero.id]);
+	}
+}
 
-Look for the example `e2e/app.e2e-spec.ts`.
-Add more `.e2e-spec.js` files as you wish (although one usually suffices for small projects);
-we configured protractor to find them.
+// ==========================================================================
+// hero.ts
+// ==========================================================================
 
-Thereafter, run them with `npm run e2e`.
-
-That command first compiles, then simultaneously starts the Http-Server at `localhost:8080`
-and launches protractor.  
-
-The pass/fail test results appear at the bottom of the terminal window.
-A custom reporter (see `protractor.config.js`) generates a  `./_test-output/protractor-results.txt` file
-which is easier to read; this file is excluded from source control.
-
-Shut it down manually with Ctrl-C.
+export interface Hero {
+	id: number;
+	name: string;
+}
