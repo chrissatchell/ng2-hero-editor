@@ -8,7 +8,15 @@ export class HeroService {
 	
 	getHeroes() {
 		//return HEROES;
-		return Promise.resolve(HEROES);
+		
+		return new Promise<Hero[]>( (resolve, reject) => {
+			resolve(HEROES);
+		});
+		
+		/**
+		 * Simplier syntax 
+		 */
+		//return Promise.resolve(HEROES);
 	}
 
 	getHeroesSlowly() {

@@ -102,13 +102,13 @@ export class AppComponent implements OnInit {
 		 */
 		
 		// Previously Synchronous 
-		//this.heroes = this.heroService.getHeroes();
+		// this.heroes = this.heroService.getHeroes();
 		
 		/**
 		 * Our callback sets the component's heroes property to 
 		 * the array of heroes returned by the service.
 		 */
-		this.heroService.getHeroesSlowly().then(returnedFromService => this.heroes = returnedFromService)
+		this.heroService.getHeroes().then(returnedFromService => this.heroes = returnedFromService)
 	}
 
 	ngOnInit() {
