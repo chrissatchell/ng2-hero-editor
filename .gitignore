@@ -17,3 +17,8 @@ _temp
 !typings/typings.d.ts
 !wallaby.js
 .DS_Store
+hero-editor.sublime-project
+hero-editor.sublime-workspace
+hero_editor_ts.rtf
+hero_editor_ts.txt
+_README.md

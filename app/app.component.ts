@@ -33,7 +33,7 @@ import { HeroService } from "./hero.service";
 		nav a.active {
 		  color: #039be5;
 		}
-	`],
+	`], 
 	template: `
 		<h1>{{title}}</h1>
 		<nav>

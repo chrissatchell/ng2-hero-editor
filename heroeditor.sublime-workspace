@@ -1,0 +1,2249 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"On",
+				"OnDestroy	alias"
+			],
+			[
+				"Hero",
+				"HeroService	alias"
+			],
+			[
+				"Her",
+				"HeroService	alias"
+			],
+			[
+				"hero",
+				"app/hero.service.ts"
+			],
+			[
+				"pro",
+				"providers	property"
+			],
+			[
+				"Com",
+				"Component	var"
+			],
+			[
+				"ng",
+				"ngcore	ngcore"
+			],
+			[
+				"cmb",
+				"cmb4	cmb4"
+			],
+			[
+				"heroes",
+				"heroes	property"
+			],
+			[
+				"In",
+				"Injectable	var"
+			],
+			[
+				"cons",
+				"consumer_secret"
+			],
+			[
+				"twitter",
+				"twitterClient"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"sub",
+				"submenu"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"mobile",
+				"mobileSearchField"
+			],
+			[
+				"med",
+				"medium-up"
+			],
+			[
+				"me",
+				"media"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"first",
+				"first-of-type"
+			],
+			[
+				"se",
+				"searchGlass"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"small",
+				"small-only"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"menu",
+				"menu-item-has-children"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"medium",
+				"medium-up"
+			],
+			[
+				"blue",
+				"blue-diamond-pattern"
+			],
+			[
+				"grey",
+				"grey-diamond-pattern"
+			],
+			[
+				"x",
+				"xxlarge-fz"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"icon",
+				"icon_alt"
+			],
+			[
+				"slide",
+				"slide_count"
+			],
+			[
+				"flex",
+				"flexVerticalAlignMiddle"
+			],
+			[
+				"li",
+				"lightblue"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"g",
+				"grey"
+			],
+			[
+				"ult",
+				"util-nav-fz"
+			],
+			[
+				"ut",
+				"util-nav-fz"
+			],
+			[
+				"utl",
+				"utilnav_h"
+			],
+			[
+				"jo",
+				"JSON"
+			],
+			[
+				"req",
+				"require	require"
+			],
+			[
+				"fu",
+				"func	function"
+			],
+			[
+				"str",
+				"String	interface"
+			],
+			[
+				"slid",
+				"slideTo	method"
+			],
+			[
+				"message",
+				"messageEdit	property"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"fun",
+				"func	Function"
+			],
+			[
+				"Contro",
+				"ControlGroup	alias"
+			],
+			[
+				"Val",
+				"Validators	alias"
+			],
+			[
+				"COn",
+				"ControlGroup	alias"
+			],
+			[
+				"For",
+				"FormBuilder	alias"
+			],
+			[
+				"imp",
+				"implements	keyword"
+			],
+			[
+				"L",
+				"LocationStrategy	alias"
+			],
+			[
+				"pr",
+				"provide"
+			],
+			[
+				"ROUTER",
+				"ROUTER_DIRECTIVES	const"
+			],
+			[
+				"mess",
+				"assets/app/messages/messages.component.ts"
+			],
+			[
+				"cl",
+				"cl	cl"
+			],
+			[
+				"conts",
+				"constructor	keyword"
+			],
+			[
+				"click",
+				"clickHander"
+			],
+			[
+				"class",
+				"class	class …"
+			],
+			[
+				"doc",
+				"document	var"
+			],
+			[
+				"template",
+				"templateUrl	property"
+			],
+			[
+				"mov",
+				"movieTitle"
+			],
+			[
+				"h2",
+				"h2fz"
+			],
+			[
+				"ip",
+				"iphone5s"
+			],
+			[
+				"nth-",
+				"nth-of-type"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"po",
+				"pos:r	position:relative"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"SHOW",
+				"SHOWHIDE"
+			],
+			[
+				"th",
+				"thisTest	getter"
+			],
+			[
+				"inner",
+				"innerWidth	property"
+			],
+			[
+				"ran",
+				"randomNum	method"
+			],
+			[
+				"rand",
+				"randomNum	warning"
+			],
+			[
+				"edin",
+				"editing	warning"
+			],
+			[
+				"che",
+				"checkHandler	method"
+			],
+			[
+				"im",
+				"import	imports a module …"
+			],
+			[
+				"prop",
+				"prototype	property"
+			],
+			[
+				"get",
+				"getElementById	method"
+			],
+			[
+				"inc",
+				"incrementCount	warning"
+			],
+			[
+				"incre",
+				"increment	warning"
+			],
+			[
+				"clear",
+				"clearInterval	function"
+			],
+			[
+				"save",
+				"saveVal	warning"
+			],
+			[
+				"sav",
+				"savedVal	warning"
+			],
+			[
+				"set",
+				"setState	warning"
+			],
+			[
+				"compn",
+				"componentWillMount	warning"
+			],
+			[
+				"counter",
+				"_counter	method"
+			],
+			[
+				"fc",
+				"func	function"
+			],
+			[
+				"func",
+				"func	function"
+			],
+			[
+				"Reac",
+				"ReactDOM	alias"
+			],
+			[
+				"cbm",
+				"cmb4	cmb4"
+			],
+			[
+				"hand",
+				"handleTextChange	warning"
+			],
+			[
+				"_hand",
+				"_handleTextChange	method"
+			],
+			[
+				"ha",
+				"_handleTextChange	method"
+			],
+			[
+				"_",
+				"_loadCommentsFromServer	method"
+			],
+			[
+				"comment",
+				"commentNodes	warning"
+			],
+			[
+				"Co",
+				"CommentList	class"
+			],
+			[
+				"Marke",
+				"MarkdownEditor"
+			],
+			[
+				"de",
+				"default	keyword"
+			],
+			[
+				"Nav",
+				"NavController	alias"
+			],
+			[
+				"templa",
+				"templateUrl	property"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"local",
+				"localUrl"
+			],
+			[
+				"const",
+				"constructor	keyword"
+			],
+			[
+				"ev",
+				"event	var"
+			],
+			[
+				"Foobar",
+				"FoobarTus	alias"
+			],
+			[
+				"Web",
+				"WebSocketServer"
+			],
+			[
+				"ski",
+				"skierTerms"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"sk",
+				"skierTerms"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"public",
+				"public/form.html"
+			],
+			[
+				"in",
+				"inStock"
+			],
+			[
+				"cm",
+				"cmb2	comment_block_v2"
+			],
+			[
+				"pa",
+				"param	@param"
+			],
+			[
+				"c",
+				"cmb4	cmb4"
+			],
+			[
+				"cr",
+				"createReadStream"
+			],
+			[
+				"file",
+				"fileStream"
+			],
+			[
+				"css",
+				"cssPath"
+			],
+			[
+				"res",
+				"responseBody"
+			],
+			[
+				"ch",
+				"chuck"
+			],
+			[
+				"chat",
+				"chatlog"
+			],
+			[
+				"cu",
+				"customEvent"
+			],
+			[
+				"emit",
+				"emitter"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/heroes.component.ts",
+			"settings":
+			{
+				"buffer_size": 3287,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/hero.service.ts",
+			"settings":
+			{
+				"buffer_size": 2315,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 5881 files for \"float: left\"\n\n/Users/Chris/Desktop/hero_editor/hero_editor_ts.rtf:\n  138  	styles:[`\n  139  		[class*='col-'] {\n  140: 		  float: left;\n  141  		}\n  142  		*, *:after, *:before {\n\n/Users/Chris/Desktop/hero_editor/hero_editor_ts.txt:\n  138  	styles:[`\n  139  		[class*='col-'] {\n  140: 		  float: left;\n  141  		}\n  142  		*, *:after, *:before {\n\n/Users/Chris/Desktop/hero_editor/app/dashboard.component.ts:\n   10  	styles:[`\n   11  		[class*='col-'] {\n   12: 		  float: left;\n   13  		}\n   14  		*, *:after, *:before {\n\n/Users/Chris/Desktop/hero_editor/app/heroes.component.ts:\n   18  	    padding: 0;\n   19  	    width: 15em;\n   20: 	    float: left;\n   21  	  }\n   22  	  .heroes li {\n\n/Users/Chris/Desktop/hero_editor/node_modules/bootstrap/dist/css/bootstrap.css:\n 1455  @media (min-width: 768px) {\n 1456    .dl-horizontal dt {\n 1457:     float: left;\n 1458      width: 160px;\n 1459      overflow: hidden;\n ....\n 1621  }\n 1622  .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {\n 1623:   float: left;\n 1624  }\n 1625  .col-xs-12 {\n ....\n 1778  @media (min-width: 768px) {\n 1779    .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {\n 1780:     float: left;\n 1781    }\n 1782    .col-sm-12 {\n ....\n 1936  @media (min-width: 992px) {\n 1937    .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {\n 1938:     float: left;\n 1939    }\n 1940    .col-md-12 {\n ....\n 2094  @media (min-width: 1200px) {\n 2095    .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {\n 2096:     float: left;\n 2097    }\n 2098    .col-lg-12 {\n ....\n 3527    z-index: 1000;\n 3528    display: none;\n 3529:   float: left;\n 3530    min-width: 160px;\n 3531    padding: 5px 0;\n ....\n 3655  .btn-group-vertical > .btn {\n 3656    position: relative;\n 3657:   float: left;\n 3658  }\n 3659  .btn-group > .btn:hover,\n ....\n 3679  .btn-toolbar .btn-group,\n 3680  .btn-toolbar .input-group {\n 3681:   float: left;\n 3682  }\n 3683  .btn-toolbar > .btn,\n ....\n 3702  }\n 3703  .btn-group > .btn-group {\n 3704:   float: left;\n 3705  }\n 3706  .btn-group > .btn-group:not(:first-child):not(:last-child) > .btn {\n ....\n 3830    position: relative;\n 3831    z-index: 2;\n 3832:   float: left;\n 3833    width: 100%;\n 3834    margin-bottom: 0;\n ....\n 4023  }\n 4024  .nav-tabs > li {\n 4025:   float: left;\n 4026    margin-bottom: -1px;\n 4027  }\n ....\n 4089  }\n 4090  .nav-pills > li {\n 4091:   float: left;\n 4092  }\n 4093  .nav-pills > li > a {\n ....\n 4180  @media (min-width: 768px) {\n 4181    .navbar-header {\n 4182:     float: left;\n 4183    }\n 4184  }\n ....\n 4276  }\n 4277  .navbar-brand {\n 4278:   float: left;\n 4279    height: 50px;\n 4280    padding: 15px 15px;\n ....\n 4357  @media (min-width: 768px) {\n 4358    .navbar-nav {\n 4359:     float: left;\n 4360      margin: 0;\n 4361    }\n 4362    .navbar-nav > li {\n 4363:     float: left;\n 4364    }\n 4365    .navbar-nav > li > a {\n ....\n 4479  @media (min-width: 768px) {\n 4480    .navbar-text {\n 4481:     float: left;\n 4482      margin-right: 15px;\n 4483      margin-left: 15px;\n ....\n 4486  @media (min-width: 768px) {\n 4487    .navbar-left {\n 4488:     float: left !important;\n 4489    }\n 4490    .navbar-right {\n ....\n 4724  .pagination > li > span {\n 4725    position: relative;\n 4726:   float: left;\n 4727    padding: 6px 12px;\n 4728    margin-left: -1px;\n ....\n 4836  .pager .previous > a,\n 4837  .pager .previous > span {\n 4838:   float: left;\n 4839  }\n 4840  .pager .disabled > a,\n ....\n 5137  }\n 5138  .progress-bar {\n 5139:   float: left;\n 5140    width: 0;\n 5141    height: 100%;\n ....\n 6524  }\n 6525  .pull-left {\n 6526:   float: left !important;\n 6527  }\n 6528  .hide {\n\n/Users/Chris/Desktop/hero_editor/node_modules/bootstrap/less/button-groups.less:\n   11    > .btn {\n   12      position: relative;\n   13:     float: left;\n   14      // Bring the \"active\" button to the front\n   15      &:hover,\n   ..\n   40    .btn-group,\n   41    .input-group {\n   42:     float: left;\n   43    }\n   44    > .btn,\n   ..\n   68  // Custom edits for including btn-groups within btn-groups (useful for including dropdown buttons within a btn-group)\n   69  .btn-group > .btn-group {\n   70:   float: left;\n   71  }\n   72  .btn-group > .btn-group:not(:first-child):not(:last-child) > .btn {\n\n/Users/Chris/Desktop/hero_editor/node_modules/bootstrap/less/dropdowns.less:\n   35    z-index: @zindex-dropdown;\n   36    display: none; // none by default, but block on \"open\" of the menu\n   37:   float: left;\n   38    min-width: 160px;\n   39    padding: 5px 0;\n\n/Users/Chris/Desktop/hero_editor/node_modules/bootstrap/less/input-groups.less:\n   26      // select elements in input groups. To fix it, we float the input. Details:\n   27      // https://github.com/twbs/bootstrap/issues/11561#issuecomment-28936855\n   28:     float: left;\n   29  \n   30      width: 100%;\n\n/Users/Chris/Desktop/hero_editor/node_modules/bootstrap/less/navbar.less:\n   33  \n   34    @media (min-width: @grid-float-breakpoint) {\n   35:     float: left;\n   36    }\n   37  }\n   ..\n  162  \n  163  .navbar-brand {\n  164:   float: left;\n  165    padding: @navbar-padding-vertical @navbar-padding-horizontal;\n  166    font-size: @font-size-large;\n  ...\n  265    // Uncollapse the nav\n  266    @media (min-width: @grid-float-breakpoint) {\n  267:     float: left;\n  268      margin: 0;\n  269  \n  270      > li {\n  271:       float: left;\n  272        > a {\n  273          padding-top:    @navbar-padding-vertical;\n  ...\n  361  \n  362    @media (min-width: @grid-float-breakpoint) {\n  363:     float: left;\n  364      margin-left: @navbar-padding-horizontal;\n  365      margin-right: @navbar-padding-horizontal;\n\n/Users/Chris/Desktop/hero_editor/node_modules/bootstrap/less/navs.less:\n   77    border-bottom: 1px solid @nav-tabs-border-color;\n   78    > li {\n   79:     float: left;\n   80      // Make the list-items overlay the bottom border\n   81      margin-bottom: -1px;\n   ..\n  117  .nav-pills {\n  118    > li {\n  119:     float: left;\n  120  \n  121      // Links rendered as pills\n\n/Users/Chris/Desktop/hero_editor/node_modules/bootstrap/less/pager.less:\n   38      > a,\n   39      > span {\n   40:       float: left;\n   41      }\n   42    }\n\n/Users/Chris/Desktop/hero_editor/node_modules/bootstrap/less/pagination.less:\n   13      > span {\n   14        position: relative;\n   15:       float: left; // Collapse white-space\n   16        padding: @padding-base-vertical @padding-base-horizontal;\n   17        line-height: @line-height-base;\n\n/Users/Chris/Desktop/hero_editor/node_modules/bootstrap/less/progress-bars.less:\n   35  // Bar of progress\n   36  .progress-bar {\n   37:   float: left;\n   38    width: 0%;\n   39    height: 100%;\n\n/Users/Chris/Desktop/hero_editor/node_modules/bootstrap/less/type.less:\n  214    @media (min-width: @dl-horizontal-breakpoint) {\n  215      dt {\n  216:       float: left;\n  217        width: (@dl-horizontal-offset - 20);\n  218        clear: left;\n\n/Users/Chris/Desktop/hero_editor/node_modules/bootstrap/less/utilities.less:\n   17  }\n   18  .pull-left {\n   19:   float: left !important;\n   20  }\n   21  \n\n/Users/Chris/Desktop/hero_editor/node_modules/bootstrap/less/mixins/grid-framework.less:\n   38    .col(@index, @list) when (@index > @grid-columns) { // terminal\n   39      @{list} {\n   40:       float: left;\n   41      }\n   42    }\n\n/Users/Chris/Desktop/hero_editor/node_modules/bootstrap/less/mixins/grid.less:\n   22  .make-xs-column(@columns; @gutter: @grid-gutter-width) {\n   23    position: relative;\n   24:   float: left;\n   25    width: percentage((@columns / @grid-columns));\n   26    min-height: 1px;\n   ..\n   46  \n   47    @media (min-width: @screen-sm-min) {\n   48:     float: left;\n   49      width: percentage((@columns / @grid-columns));\n   50    }\n   ..\n   74  \n   75    @media (min-width: @screen-md-min) {\n   76:     float: left;\n   77      width: percentage((@columns / @grid-columns));\n   78    }\n   ..\n  102  \n  103    @media (min-width: @screen-lg-min) {\n  104:     float: left;\n  105      width: percentage((@columns / @grid-columns));\n  106    }\n\n/Users/Chris/Desktop/hero_editor/node_modules/browser-sync-ui/public/img/icons/preview.html:\n   84          .icon-wrapper {\n   85              width: 150px;\n   86:             float: left;\n   87          }\n   88  \n\n/Users/Chris/Desktop/hero_editor/node_modules/express/node_modules/connect/lib/public/style.css:\n   91    line-height: 25px;\n   92    text-indent: 8px;\n   93:   float: left;\n   94    border: 1px solid transparent;\n   95    -webkit-border-radius: 5px;\n\n/Users/Chris/Desktop/hero_editor/node_modules/jasmine-core/lib/jasmine-core/jasmine.css:\n    7  .jasmine_html-reporter .jasmine-banner, .jasmine_html-reporter .jasmine-symbol-summary, .jasmine_html-reporter .jasmine-summary, .jasmine_html-reporter .jasmine-result-message, .jasmine_html-reporter .jasmine-spec .jasmine-description, .jasmine_html-reporter .jasmine-spec-detail .jasmine-description, .jasmine_html-reporter .jasmine-alert .jasmine-bar, .jasmine_html-reporter .jasmine-stack-trace { padding-left: 9px; padding-right: 9px; }\n    8  .jasmine_html-reporter .jasmine-banner { position: relative; }\n    9: .jasmine_html-reporter .jasmine-banner .jasmine-title { background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAZCAMAAACGusnyAAACdlBMVEX/////AP+AgICqVaqAQICZM5mAVYCSSZKAQICOOY6ATYCLRouAQICJO4mSSYCIRIiPQICHPIeOR4CGQ4aMQICGPYaLRoCFQ4WKQICPPYWJRYCOQoSJQICNPoSIRICMQoSHQICHRICKQoOHQICKPoOJO4OJQYOMQICMQ4CIQYKLQICIPoKLQ4CKQICNPoKJQISMQ4KJQoSLQYKJQISLQ4KIQoSKQYKIQICIQISMQoSKQYKLQIOLQoOJQYGLQIOKQIOMQoGKQYOLQYGKQIOLQoGJQYOJQIOKQYGJQIOKQoGKQIGLQIKLQ4KKQoGLQYKJQIGKQYKJQIGKQIKJQoGKQYKLQIGKQYKLQIOJQoKKQoOJQYKKQIOJQoKKQoOKQIOLQoKKQYOLQYKJQIOKQoKKQYKKQoKJQYOKQYKLQIOKQoKLQYOKQYKLQIOJQoGKQYKJQYGJQoGKQYKLQoGLQYGKQoGJQYKKQYGJQIKKQoGJQYKLQIKKQYGLQYKKQYGKQYGKQYKJQYOKQoKJQYOKQYKLQYOLQYOKQYKLQYOKQoKKQYKKQYOKQYOJQYKKQYKLQYKKQIKKQoKKQYKKQYKKQoKJQIKKQYKLQYKKQYKKQIKKQYKKQYKKQYKKQIKKQYKJQYGLQYGKQYKKQYKKQYGKQIKKQYGKQYOJQoKKQYOLQYKKQYOKQoKKQYKKQoKKQYKKQYKJQYKLQYKKQYKKQYKKQYKKQYKKQYKKQYKKQYKKQYKJQYKKQYKKQYKKQYKKQYKKQYKKQYKKQYKKQYKKQYKKQYKKQYKLQYKKQYKKQYKKQYKKQYKKQYKKQYKKQYKKQYKKQYKKQYKKQYKKQYKmIDpEAAAA0XRSTlMAAQIDBAUGBwgJCgsMDQ4PEBESExQVFhcYGRobHB0eHyAiIyQlJycoKissLS4wMTQ1Njc4OTo7PDw+P0BCQ0RISUpLTE1OUFNUVVdYWFlaW15fYGFiY2ZnaGlqa2xtb3BxcnN0dnh5ent8fX5/gIGChIWIioyNjo+QkZOUlZaYmZqbnJ2eoKGio6WmqKmsra6vsLGztre4ubq7vL2+wMHDxMjJysvNzs/Q0dLU1tfY2dvc3t/g4eLj5ebn6Onq6+zt7u/w8vP09fb3+Pn6+/z9/vkVQXAAAAMaSURBVHhe5dXxV1N1GMfxz2ABbDgIAm5VDJOyVDIJLUMaVpBWUZUaGbmqoGpZRSiGiRWp6KoZ5AB0ZY50RImZQIlahKkMYXv/R90dBvET/rJfOr3Ouc8v99zPec59zvf56j+vYKlViSf7250X4Mr3O29Tgq08BdGB4DhcekEJ5YkQKFsgWZdtj9JpV+I8xPjLFqkrsEIqO8PHSpis36jWazcqjEsfJjkvRssVU37SdIOu4XCf5vEJPsnwJpnRNU9JmxhMk8l1gehIrq7hTFjzOD+Vf88629qKMJVNltInFeRexRQyJlNeqd1iGDlSzrIUIyXbyFfm3RYprcQRe7lqtWyGYbfc6dT0R2vmdOOkX3u55C1rP37ftiH+tDby4r/RBT0w8TyEkr+epB9XgPDmSYYWbrhCuFYaIyw3fDQAXTnSkh+ANofiHmWf9l+FY1I90FdQTetstO00o23novzVsJ7uB3/C5TkbjRwZ5JerwV4iRWq9HFbFMaK/d0TYqayRiQPuIxxS3Bu8JWU90/60tKi7vkhaznez0a/TbVOKj5CaOZh6fWG6/Lyv9B/ZLR1gw/S/fpbeVD3MCW1li6SvWDOn65tr99/uvWtBS0XDm4s1t+sOHpG0kpBKx/l77wOSnxLpcx6TXmXLTPQOKYOf9Q1dfr8/SJ2mFdCvl1Yl93DiHUZvXeLJbGSzYu5gVJ2slbSakOR8dxCq5adQ2oFLqsE9Ex3L4qQO0eOPeU5x56bypXp4onSEb5OkICX6lDat55TeoztNKQcJaakrz9KCb95oD69IKq+yKW4XPjknaS52V0TZqE2cTtXjcHSCRmUO88e+85hj3EP74i9p8pylw7lxgMDyyl6OV7ZejnjNMfatu87LxRbH0IS35gt2a4ZjmGpVBdKK3Wr6INk8jWWSGqbA55CKgjBRC6E9w78ydTg3ABS3AFV1QN0Y4Aa2pgEjWnQURj9L0ayK6R2ysEqxHUKzYnLvvyU+i9KM2JHJzE4vyZOyDcOwOsySajeLPc8sNvPJkFlyJd20wpqAzZeAfZ3oWybxd+P/3j+SG3uSBdf2VQAAAABJRU5ErkJggg==') no-repeat; background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iCiAgIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiCiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgdmVyc2lvbj0iMS4xIgogICB3aWR0aD0iNjgxLjk2MjUyIgogICBoZWlnaHQ9IjE4Ny41IgogICBpZD0ic3ZnMiIKICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PG1ldGFkYXRhCiAgICAgaWQ9Im1ldGFkYXRhOCI+PHJkZjpSREY+PGNjOldvcmsKICAgICAgICAgcmRmOmFib3V0PSIiPjxkYzpmb3JtYXQ+aW1hZ2Uvc3ZnK3htbDwvZGM6Zm9ybWF0PjxkYzp0eXBlCiAgICAgICAgICAgcmRmOnJlc291cmNlPSJodHRwOi8vcHVybC5vcmcvZGMvZGNtaXR5cGUvU3RpbGxJbWFnZSIgLz48L2NjOldvcms+PC9yZGY6UkRGPjwvbWV0YWRhdGE+PGRlZnMKICAgICBpZD0iZGVmczYiPjxjbGlwUGF0aAogICAgICAgaWQ9ImNsaXBQYXRoMTgiPjxwYXRoCiAgICAgICAgIGQ9Ik0gMCwxNTAwIDAsMCBsIDU0NTUuNzQsMCAwLDE1MDAgTCAwLDE1MDAgeiIKICAgICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIKICAgICAgICAgaWQ9InBhdGgyMCIgLz48L2NsaXBQYXRoPjwvZGVmcz48ZwogICAgIHRyYW5zZm9ybT0ibWF0cml4KDEuMjUsMCwwLC0xLjI1LDAsMTg3LjUpIgogICAgIGlkPSJnMTAiPjxnCiAgICAgICB0cmFuc2Zvcm09InNjYWxlKDAuMSwwLjEpIgogICAgICAgaWQ9ImcxMiI+PGcKICAgICAgICAgaWQ9ImcxNCI+PGcKICAgICAgICAgICBjbGlwLXBhdGg9InVybCgjY2xpcFBhdGgxOCkiCiAgICAgICAgICAgaWQ9ImcxNiI+PHBhdGgKICAgICAgICAgICAgIGQ9Im0gMTU0NCw1OTkuNDM0IGMgMC45MiwtNDAuMzUyIDI1LjY4LC04MS42MDIgNzEuNTMsLTgxLjYwMiAyNy41MSwwIDQ3LjY4LDEyLjgzMiA2MS40NCwzNS43NTQgMTIuODMsMjIuOTMgMTIuODMsNTYuODUyIDEyLjgzLDgyLjUyNyBsIDAsMzI5LjE4NCAtNzEuNTIsMCAwLDEwNC41NDMgMjY2LjgzLDAgMCwtMTA0LjU0MyAtNzAuNiwwIDAsLTM0NC43NyBjIDAsLTU4LjY5MSAtMy42OCwtMTA0LjUzMSAtNDQuOTMsLTE1Mi4yMTggLTM2LjY4LC00Mi4xOCAtOTYuMjgsLTY2LjAyIC0xNTMuMTQsLTY2LjAyIC0xMTcuMzcsMCAtMjA3LjI0LDc3Ljk0MSAtMjAyLjY0LDE5Ny4xNDUgbCAxMzAuMiwwIgogICAgICAgICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIKICAgICAgICAgICAgIGlkPSJwYXRoMjIiCiAgICAgICAgICAgICBzdHlsZT0iZmlsbDojOGE0MTgyO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTpub25lIiAvPjxwYXRoCiAgICAgICAgICAgICBkPSJtIDIzMDEuNCw2NjIuNjk1IGMgMCw4MC43MDMgLTY2Ljk0LDE0NS44MTMgLTE0Ny42MywxNDUuODEzIC04My40NCwwIC0xNDcuNjMsLTY4Ljc4MSAtMTQ3LjYzLC0xNTEuMzAxIDAsLTc5Ljc4NSA2Ni45NCwtMTQ1LjgwMSAxNDUuOCwtMTQ1LjgwMSA4NC4zNSwwIDE0OS40Niw2Ny44NTIgMTQ5LjQ2LDE1MS4yODkgeiBtIC0xLjgzLC0xODEuNTQ3IGMgLTM1Ljc3LC01NC4wOTcgLTkzLjUzLC03OC44NTkgLTE1Ny43MiwtNzguODU5IC0xNDAuMywwIC0yNTEuMjQsMTE2LjQ0OSAtMjUxLjI0LDI1NC45MTggMCwxNDIuMTI5IDExMy43LDI2MC40MSAyNTYuNzQsMjYwLjQxIDYzLjI3LDAgMTE4LjI5LC0yOS4zMzYgMTUyLjIyLC04Mi41MjMgbCAwLDY5LjY4NyAxNzUuMTQsMCAwLC0xMDQuNTI3IC02MS40NCwwIDAsLTI4MC41OTggNjEuNDQsMCAwLC0xMDQuNTI3IC0xNzUuMTQsMCAwLDY2LjAxOSIKICAgICAgICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiCiAgICAgICAgICAgICBpZD0icGF0aDI0IgogICAgICAgICAgICAgc3R5bGU9ImZpbGw6IzhhNDE4MjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSIgLz48cGF0aAogICAgICAgICAgICAgZD0ibSAyNjIyLjMzLDU1Ny4yNTggYyAzLjY3LC00NC4wMTYgMzMuMDEsLTczLjM0OCA3OC44NiwtNzMuMzQ4IDMzLjkzLDAgNjYuOTMsMjMuODI0IDY2LjkzLDYwLjUwNCAwLDQ4LjYwNiAtNDUuODQsNTYuODU2IC04My40NCw2Ni45NDEgLTg1LjI4LDIyLjAwNCAtMTc4LjgxLDQ4LjYwNiAtMTc4LjgxLDE1NS44NzkgMCw5My41MzYgNzguODYsMTQ3LjYzMyAxNjUuOTgsMTQ3LjYzMyA0NCwwIDgzLjQzLC05LjE3NiAxMTAuOTQsLTQ0LjAwOCBsIDAsMzMuOTIyIDgyLjUzLDAgMCwtMTMyLjk2NSAtMTA4LjIxLDAgYyAtMS44MywzNC44NTYgLTI4LjQyLDU3Ljc3NCAtNjMuMjYsNTcuNzc0IC0zMC4yNiwwIC02Mi4zNSwtMTcuNDIyIC02Mi4zNSwtNTEuMzQ4IDAsLTQ1Ljg0NyA0NC45MywtNTUuOTMgODAuNjksLTY0LjE4IDg4LjAyLC0yMC4xNzUgMTgyLjQ3LC00Ny42OTUgMTgyLjQ3LC0xNTcuNzM0IDAsLTk5LjAyNyAtODMuNDQsLTE1NC4wMzkgLTE3NS4xMywtMTU0LjAzOSAtNDkuNTMsMCAtOTQuNDYsMTUuNTgyIC0xMjYuNTUsNTMuMTggbCAwLC00MC4zNCAtODUuMjcsMCAwLDE0Mi4xMjkgMTE0LjYyLDAiCiAgICAgICAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIgogICAgICAgICAgICAgaWQ9InBhdGgyNiIKICAgICAgICAgICAgIHN0eWxlPSJmaWxsOiM4YTQxODI7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOm5vbmUiIC8+PHBhdGgKICAgICAgICAgICAgIGQ9Im0gMjk4OC4xOCw4MDAuMjU0IC02My4yNiwwIDAsMTA0LjUyNyAxNjUuMDUsMCAwLC03My4zNTUgYyAzMS4xOCw1MS4zNDcgNzguODYsODUuMjc3IDE0MS4yMSw4NS4yNzcgNjcuODUsMCAxMjQuNzEsLTQxLjI1OCAxNTIuMjEsLTEwMi42OTkgMjYuNiw2Mi4zNTEgOTIuNjIsMTAyLjY5OSAxNjAuNDcsMTAyLjY5OSA1My4xOSwwIDEwNS40NiwtMjIgMTQxLjIxLC02Mi4zNTEgMzguNTIsLTQ0LjkzOCAzOC41MiwtOTMuNTMyIDM4LjUyLC0xNDkuNDU3IGwgMCwtMTg1LjIzOSA2My4yNywwIDAsLTEwNC41MjcgLTIzOC40MiwwIDAsMTA0LjUyNyA2My4yOCwwIDAsMTU3LjcxNSBjIDAsMzIuMTAyIDAsNjAuNTI3IC0xNC42Nyw4OC45NTcgLTE4LjM0LDI2LjU4MiAtNDguNjEsNDAuMzQ0IC03OS43Nyw0MC4zNDQgLTMwLjI2LDAgLTYzLjI4LC0xMi44NDQgLTgyLjUzLC0zNi42NzIgLTIyLjkzLC0yOS4zNTUgLTIyLjkzLC01Ni44NjMgLTIyLjkzLC05Mi42MjkgbCAwLC0xNTcuNzE1IDYzLjI3LDAgMCwtMTA0LjUyNyAtMjM4LjQxLDAgMCwxMDQuNTI3IDYzLjI4LDAgMCwxNTAuMzgzIGMgMCwyOS4zNDggMCw2Ni4wMjMgLTE0LjY3LDkxLjY5OSAtMTUuNTksMjkuMzM2IC00Ny42OSw0NC45MzQgLTgwLjcsNDQuOTM0IC0zMS4xOCwwIC01Ny43NywtMTEuMDA4IC03Ny45NCwtMzUuNzc0IC0yNC43NywtMzAuMjUzIC0yNi42LC02Mi4zNDMgLTI2LjYsLTk5Ljk0MSBsIDAsLTE1MS4zMDEgNjMuMjcsMCAwLC0xMDQuNTI3IC0yMzguNCwwIDAsMTA0LjUyNyA2My4yNiwwIDAsMjgwLjU5OCIKICAgICAgICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiCiAgICAgICAgICAgICBpZD0icGF0aDI4IgogICAgICAgICAgICAgc3R5bGU9ImZpbGw6IzhhNDE4MjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSIgLz48cGF0aAogICAgICAgICAgICAgZD0ibSAzOTk4LjY2LDk1MS41NDcgLTExMS44NywwIDAsMTE4LjI5MyAxMTEuODcsMCAwLC0xMTguMjkzIHogbSAwLC00MzEuODkxIDYzLjI3LDAgMCwtMTA0LjUyNyAtMjM5LjMzLDAgMCwxMDQuNTI3IDY0LjE5LDAgMCwyODAuNTk4IC02My4yNywwIDAsMTA0LjUyNyAxNzUuMTQsMCAwLC0zODUuMTI1IgogICAgICAgICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIKICAgICAgICAgICAgIGlkPSJwYXRoMzAiCiAgICAgICAgICAgICBzdHlsZT0iZmlsbDojOGE0MTgyO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTpub25lIiAvPjxwYXRoCiAgICAgICAgICAgICBkPSJtIDQxNTkuMTIsODAwLjI1NCAtNjMuMjcsMCAwLDEwNC41MjcgMTc1LjE0LDAgMCwtNjkuNjg3IGMgMjkuMzUsNTQuMTAxIDg0LjM2LDgwLjY5OSAxNDQuODcsODAuNjk5IDUzLjE5LDAgMTA1LjQ1LC0yMi4wMTYgMTQxLjIyLC02MC41MjcgNDAuMzQsLTQ0LjkzNCA0MS4yNiwtODguMDMyIDQxLjI2LC0xNDMuOTU3IGwgMCwtMTkxLjY1MyA2My4yNywwIDAsLTEwNC41MjcgLTIzOC40LDAgMCwxMDQuNTI3IDYzLjI2LDAgMCwxNTguNjM3IGMgMCwzMC4yNjIgMCw2MS40MzQgLTE5LjI2LDg4LjAzNSAtMjAuMTcsMjYuNTgyIC01My4xOCwzOS40MTQgLTg2LjE5LDM5LjQxNCAtMzMuOTMsMCAtNjguNzcsLTEzLjc1IC04OC45NCwtNDEuMjUgLTIxLjA5LC0yNy41IC0yMS4wOSwtNjkuNjg3IC0yMS4wOSwtMTAyLjcwNyBsIDAsLTE0Mi4xMjkgNjMuMjYsMCAwLC0xMDQuNTI3IC0yMzguNCwwIDAsMTA0LjUyNyA2My4yNywwIDAsMjgwLjU5OCIKICAgICAgICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiCiAgICAgICAgICAgICBpZD0icGF0aDMyIgogICAgICAgICAgICAgc3R5bGU9ImZpbGw6IzhhNDE4MjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSIgLz48cGF0aAogICAgICAgICAgICAgZD0ibSA1MDgyLjQ4LDcwMy45NjUgYyAtMTkuMjQsNzAuNjA1IC04MS42LDExNS41NDcgLTE1NC4wNCwxMTUuNTQ3IC02Ni4wNCwwIC0xMjkuMywtNTEuMzQ4IC0xNDMuMDUsLTExNS41NDcgbCAyOTcuMDksMCB6IG0gODUuMjcsLTE0NC44ODMgYyAtMzguNTEsLTkzLjUyMyAtMTI5LjI3LC0xNTYuNzkzIC0yMzEuMDUsLTE1Ni43OTMgLTE0My4wNywwIC0yNTcuNjgsMTExLjg3MSAtMjU3LjY4LDI1NS44MzYgMCwxNDQuODgzIDEwOS4xMiwyNjEuMzI4IDI1NC45MSwyNjEuMzI4IDY3Ljg3LDAgMTM1LjcyLC0zMC4yNTggMTgzLjM5LC03OC44NjMgNDguNjIsLTUxLjM0NCA2OC43OSwtMTEzLjY5NSA2OC43OSwtMTgzLjM4MyBsIC0zLjY3LC0zOS40MzQgLTM5Ni4xMywwIGMgMTQuNjcsLTY3Ljg2MyA3Ny4wMywtMTE3LjM2MyAxNDYuNzIsLTExNy4zNjMgNDguNTksMCA5MC43NiwxOC4zMjggMTE4LjI4LDU4LjY3MiBsIDExNi40NCwwIgogICAgICAgICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIKICAgICAgICAgICAgIGlkPSJwYXRoMzQiCiAgICAgICAgICAgICBzdHlsZT0iZmlsbDojOGE0MTgyO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTpub25lIiAvPjxwYXRoCiAgICAgICAgICAgICBkPSJtIDY5MC44OTUsODUwLjcwMyA5MC43NSwwIDIyLjU0MywzMS4wMzUgMCwyNDMuMTIyIC0xMzUuODI5LDAgMCwtMjQzLjE0MSAyMi41MzYsLTMxLjAxNiIKICAgICAgICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiCiAgICAgICAgICAgICBpZD0icGF0aDM2IgogICAgICAgICAgICAgc3R5bGU9ImZpbGw6IzhhNDE4MjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSIgLz48cGF0aAogICAgICAgICAgICAgZD0ibSA2MzIuMzk1LDc0Mi4yNTggMjguMDM5LDg2LjMwNCAtMjIuNTUxLDMxLjA0IC0yMzEuMjIzLDc1LjEyOCAtNDEuOTc2LC0xMjkuMTgzIDIzMS4yNTcsLTc1LjEzNyAzNi40NTQsMTEuODQ4IgogICAgICAgICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIKICAgICAgICAgICAgIGlkPSJwYXRoMzgiCiAgICAgICAgICAgICBzdHlsZT0iZmlsbDojOGE0MTgyO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTpub25lIiAvPjxwYXRoCiAgICAgICAgICAgICBkPSJtIDcxNy40NDksNjUzLjEwNSAtNzMuNDEsNTMuMzYgLTM2LjQ4OCwtMTEuODc1IC0xNDIuOTAzLC0xOTYuNjkyIDEwOS44ODMsLTc5LjgyOCAxNDIuOTE4LDE5Ni43MDMgMCwzOC4zMzIiCiAgICAgICAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIgogICAgICAgICAgICAgaWQ9InBhdGg0MCIKICAgICAgICAgICAgIHN0eWxlPSJmaWxsOiM4YTQxODI7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOm5vbmUiIC8+PHBhdGgKICAgICAgICAgICAgIGQ9Im0gODI4LjUyLDcwNi40NjUgLTczLjQyNiwtNTMuMzQgMC4wMTEsLTM4LjM1OSBMIDg5OC4wMDQsNDE4LjA3IDEwMDcuOSw0OTcuODk4IDg2NC45NzMsNjk0LjYwOSA4MjguNTIsNzA2LjQ2NSIKICAgICAgICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiCiAgICAgICAgICAgICBpZD0icGF0aDQyIgogICAgICAgICAgICAgc3R5bGU9ImZpbGw6IzhhNDE4MjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSIgLz48cGF0aAogICAgICAgICAgICAgZD0ibSA4MTIuMDg2LDgyOC41ODYgMjguMDU1LC04Ni4zMiAzNi40ODQsLTExLjgzNiAyMzEuMjI1LDc1LjExNyAtNDEuOTcsMTI5LjE4MyAtMjMxLjIzOSwtNzUuMTQgLTIyLjU1NSwtMzEuMDA0IgogICAgICAgICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIKICAgICAgICAgICAgIGlkPSJwYXRoNDQiCiAgICAgICAgICAgICBzdHlsZT0iZmlsbDojOGE0MTgyO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTpub25lIiAvPjxwYXRoCiAgICAgICAgICAgICBkPSJtIDczNi4zMDEsMTMzNS44OCBjIC0zMjMuMDQ3LDAgLTU4NS44NzUsLTI2Mi43OCAtNTg1Ljg3NSwtNTg1Ljc4MiAwLC0zMjMuMTE4IDI2Mi44MjgsLTU4NS45NzcgNTg1Ljg3NSwtNTg1Ljk3NyAzMjMuMDE5LDAgNTg1LjgwOSwyNjIuODU5IDU4NS44MDksNTg1Ljk3NyAwLDMyMy4wMDIgLTI2Mi43OSw1ODUuNzgyIC01ODUuODA5LDU4NS43ODIgbCAwLDAgeiBtIDAsLTExOC42MSBjIDI1Ny45NzIsMCA0NjcuMTg5LC0yMDkuMTMgNDY3LjE4OSwtNDY3LjE3MiAwLC0yNTguMTI5IC0yMDkuMjE3LC00NjcuMzQ4IC00NjcuMTg5LC00NjcuMzQ4IC0yNTguMDc0LDAgLTQ2Ny4yNTQsMjA5LjIxOSAtNDY3LjI1NCw0NjcuMzQ4IDAsMjU4LjA0MiAyMDkuMTgsNDY3LjE3MiA0NjcuMjU0LDQ2Ny4xNzIiCiAgICAgICAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIgogICAgICAgICAgICAgaWQ9InBhdGg0NiIKICAgICAgICAgICAgIHN0eWxlPSJmaWxsOiM4YTQxODI7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOm5vbmUiIC8+PHBhdGgKICAgICAgICAgICAgIGQ9Im0gMTA5MS4xMyw2MTkuODgzIC0xNzUuNzcxLDU3LjEyMSAxMS42MjksMzUuODA4IDE3NS43NjIsLTU3LjEyMSAtMTEuNjIsLTM1LjgwOCIKICAgICAgICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiCiAgICAgICAgICAgICBpZD0icGF0aDQ4IgogICAgICAgICAgICAgc3R5bGU9ImZpbGw6IzhhNDE4MjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSIgLz48cGF0aAogICAgICAgICAgICAgZD0iTSA4NjYuOTU3LDkwMi4wNzQgODM2LjUsOTI0LjE5OSA5NDUuMTIxLDEwNzMuNzMgOTc1LjU4NiwxMDUxLjYxIDg2Ni45NTcsOTAyLjA3NCIKICAgICAgICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiCiAgICAgICAgICAgICBpZD0icGF0aDUwIgogICAgICAgICAgICAgc3R5bGU9ImZpbGw6IzhhNDE4MjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSIgLz48cGF0aAogICAgICAgICAgICAgZD0iTSA2MDcuNDY1LDkwMy40NDUgNDk4Ljg1NSwxMDUyLjk3IDUyOS4zMiwxMDc1LjEgNjM3LjkzLDkyNS41NjYgNjA3LjQ2NSw5MDMuNDQ1IgogICAgICAgICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIKICAgICAgICAgICAgIGlkPSJwYXRoNTIiCiAgICAgICAgICAgICBzdHlsZT0iZmlsbDojOGE0MTgyO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTpub25lIiAvPjxwYXRoCiAgICAgICAgICAgICBkPSJtIDM4MC42ODgsNjIyLjEyOSAtMTEuNjI2LDM1LjgwMSAxNzUuNzU4LDU3LjA5IDExLjYyMSwtMzUuODAxIC0xNzUuNzUzLC01Ny4wOSIKICAgICAgICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiCiAgICAgICAgICAgICBpZD0icGF0aDU0IgogICAgICAgICAgICAgc3R5bGU9ImZpbGw6IzhhNDE4MjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSIgLz48cGF0aAogICAgICAgICAgICAgZD0ibSA3MTYuMjg5LDM3Ni41OSAzNy42NDA2LDAgMCwxODQuODE2IC0zNy42NDA2LDAgMCwtMTg0LjgxNiB6IgogICAgICAgICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIKICAgICAgICAgICAgIGlkPSJwYXRoNTYiCiAgICAgICAgICAgICBzdHlsZT0iZmlsbDojOGE0MTgyO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTpub25lIiAvPjwvZz48L2c+PC9nPjwvZz48L3N2Zz4=') no-repeat, none; -moz-background-size: 100%; -o-background-size: 100%; -webkit-background-size: 100%; background-size: 100%; display: block; float: left; width: 90px; height: 25px; }\n   10  .jasmine_html-reporter .jasmine-banner .jasmine-version { margin-left: 14px; position: relative; top: 6px; }\n   11  .jasmine_html-reporter #jasmine_content { position: fixed; right: 100%; }\n\n/Users/Chris/Desktop/hero_editor/node_modules/reflect-metadata/spec/css/elements.css:\n   70      margin-left: -5em;\n   71      display: block;\n   72:     float: left;\n   73  }\n   74  \n\n/Users/Chris/Desktop/hero_editor/node_modules/selenium-webdriver/lib/test/data/draggableLists.html:\n   10      <script type=\"text/javascript\" src=\"js/jquery-ui-1.8.10.custom.min.js\"></script>\n   11      <style type=\"text/css\">\n   12:       #sortable1, #sortable2 { list-style-type: none; margin: 0; padding: 0; float: left; margin-right: 10px; }\n   13        #sortable1 li, #sortable2 li { margin: 0 5px 5px 5px; padding: 5px; font-size: 1.2em; width: 120px; }\n   14      </style>\n\n/Users/Chris/Desktop/hero_editor/node_modules/selenium-webdriver/lib/test/data/droppableItems.html:\n    8      <script type=\"text/javascript\" src=\"js/jquery-ui-1.8.10.custom.min.js\"></script>\n    9    <style type=\"text/css\">\n   10:   #draggable { width: 100px; height: 100px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; }\n   11:   #droppable { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px; }\n   12    </style>\n   13    <script type=\"text/javascript\">\n\n/Users/Chris/Desktop/hero_editor/node_modules/selenium-webdriver/lib/test/data/javascriptPage.html:\n   58          }\n   59          #nav li {\n   60:             float: left; position: relative; width: 10em;\n   61          }\n   62          #nav li ul {\n   ..\n  243    Click actions delayed by 3000ms:\n  244    <div id=\"clickToShow\" onclick=\"delayedShowHide(3000, true);\"\n  245:        style=\"float: left;width: 100px;height:100px;border: 1px solid black;\">\n  246      Click to show black box\n  247    </div>\n  248    <div id=\"clickToHide\" onclick=\"delayedShowHide(3000, false);\"\n  249:        style=\"float: left;width: 100px;height:100px;border: 1px solid black;\n  250                background-color: black; color: white; display: none;\">\n  251      Click to hide black box\n\n/Users/Chris/Desktop/hero_editor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/jquery-ui-1.8.10.custom.css:\n  369  	margin: 0;\n  370  	display:block;\n  371: 	float: left;\n  372  }\n  373  .ui-menu .ui-menu {\n  ...\n  378  	padding: 0;\n  379  	zoom: 1;\n  380: 	float: left;\n  381  	clear: left;\n  382  	width: 100%;\n  ...\n  443  .ui-dialog { position: absolute; padding: .2em; width: 300px; overflow: hidden; }\n  444  .ui-dialog .ui-dialog-titlebar { padding: .4em 1em; position: relative;  }\n  445: .ui-dialog .ui-dialog-title { float: left; margin: .1em 16px .1em 0; } \n  446  .ui-dialog .ui-dialog-titlebar-close { position: absolute; right: .3em; top: 50%; width: 19px; margin: -10px 0 0 0; padding: 1px; height: 18px; }\n  447  .ui-dialog .ui-dialog-titlebar-close span { display: block; margin: 1px; }\n  ...\n  487  .ui-tabs { position: relative; padding: .2em; zoom: 1; } /* position: relative prevents IE scroll bug (element with position: relative inside container with overflow: auto appear as \"fixed\") */\n  488  .ui-tabs .ui-tabs-nav { margin: 0; padding: .2em .2em 0; }\n  489: .ui-tabs .ui-tabs-nav li { list-style: none; float: left; position: relative; top: 1px; margin: 0 .2em 1px 0; border-bottom: 0 !important; padding: 0; white-space: nowrap; }\n  490: .ui-tabs .ui-tabs-nav li a { float: left; padding: .5em 1em; text-decoration: none; }\n  491  .ui-tabs .ui-tabs-nav li.ui-tabs-selected { margin-bottom: 0; padding-bottom: 1px; }\n  492  .ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a { cursor: text; }\n  ...\n  544  .ui-datepicker-rtl .ui-datepicker-next:hover { left: 1px; right: auto; }\n  545  .ui-datepicker-rtl .ui-datepicker-buttonpane { clear:right; }\n  546: .ui-datepicker-rtl .ui-datepicker-buttonpane button { float: left; }\n  547  .ui-datepicker-rtl .ui-datepicker-buttonpane button.ui-datepicker-current { float:right; }\n  548  .ui-datepicker-rtl .ui-datepicker-group { float:right; }\n\n/Users/Chris/Desktop/hero_editor/node_modules/serve-index/public/style.css:\n   75  }\n   76  ul#files li {\n   77:   float: left;\n   78    width: 30%;\n   79    line-height: 25px;\n\n/Users/Chris/Desktop/hero_editor/node_modules/string-template/coverage/base.css:\n   44    visibility:hidden;\n   45    }\n   46: .fl { float: left; }\n   47  @media only screen and (max-width:640px) {\n   48    .col3 { width:100%; max-width:100%; }\n\n/Users/Chris/Desktop/hero_editor/node_modules/weinre/web/client/audits.css:\n  209  .audit-result-tree li.parent::before {\n  210      content: url(Images/treeRightTriangleBlack.png);\n  211:     float: left;\n  212      width: 8px;\n  213      height: 8px;\n  ...\n  251  .audit-result-tree li.parent::before {\n  252      content: url(Images/treeRightTriangleBlack.png);\n  253:     float: left;\n  254      width: 8px;\n  255      height: 8px;\n  ...\n  276  \n  277  .audit-result img {\n  278:     float: left;\n  279      margin-left: -40px;\n  280      margin-top: -1px;\n\n/Users/Chris/Desktop/hero_editor/node_modules/weinre/web/client/helpScreen.css:\n   97  \n   98  body.platform-mac .help-close-button {\n   99:     float: left;\n  100      margin-right: 10px;\n  101      font-size: 12px;\n\n/Users/Chris/Desktop/hero_editor/node_modules/weinre/web/client/inspector.css:\n 1209  .outline-disclosure li.parent::before {\n 1210      content: url(Images/treeRightTriangleBlack.png);\n 1211:     float: left;\n 1212      width: 8px;\n 1213      height: 8px;\n ....\n 1425      content: url(Images/treeRightTriangleBlack.png);\n 1426      opacity: 0.75;\n 1427:     float: left;\n 1428      width: 8px;\n 1429      height: 8px;\n ....\n 1472  .event-listener-breakpoints .checkbox-elem {\n 1473      font-size: 10px;\n 1474:     float: left;\n 1475      top: -2px;\n 1476      position: relative;\n ....\n 1678  .pane > .title::before {\n 1679      content: url(Images/disclosureTriangleSmallRightBlack.png);\n 1680:     float: left;\n 1681      width: 11px;\n 1682      height: 12px;\n ....\n 2007      width: 16px;\n 2008      height: 16px;\n 2009:     float: left;\n 2010  }\n 2011  \n ....\n 2257  \n 2258  .data-grid tr.parent td.disclosure::before {\n 2259:     float: left;\n 2260      content: url(Images/treeRightTriangleBlack.png);\n 2261      width: 8px;\n ....\n 3289  \n 3290  .sidebar-tree-item .disclosure-button {\n 3291:     float: left;\n 3292      width: 16px;\n 3293      height: 100%;\n ....\n 3338  \n 3339  .sidebar-tree-item .icon {\n 3340:     float: left;\n 3341      width: 32px;\n 3342      height: 32px;\n ....\n 4057  \n 4058  #counters > .timeline-records-counter {\n 4059:     float: left;\n 4060      margin-top: -2px;\n 4061  }\n ....\n 4389      content: url(Images/warningIcon.png);\n 4390      opacity: 0.75;\n 4391:     float: left;\n 4392      width: 8px;\n 4393      height: 8px;\n ....\n 4477      content: url(Images/treeRightTriangleBlack.png);\n 4478      opacity: 0.75;\n 4479:     float: left;\n 4480      width: 8px;\n 4481      height: 8px;\n\n/Users/Chris/Desktop/hero_editor/node_modules/weinre/web/client/networkPanel.css:\n  178  \n  179  .network-sidebar .data-grid .icon {\n  180:     float: left;\n  181      width: 32px;\n  182      height: 32px;\n\n82 matches across 31 files\n",
+			"settings":
+			{
+				"buffer_size": 31130,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "app/hero-detail.component.ts",
+			"settings":
+			{
+				"buffer_size": 2560,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "syn typ",
+		"selected_items":
+		[
+			[
+				"syn typ",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sy ty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"them",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"synt ty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"synt bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"colo",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"htn",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn ty r",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"syn tyr",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"syn ty",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"sny ty r",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"syn j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax: js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax: html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax: ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sy",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax:jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ftpsynch",
+				"FTPSync: Check current file"
+			],
+			[
+				"ftp",
+				"FTPSync: Browse"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pack",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pl",
+				"Package Control: List Packages"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"the",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"var tit = \"tit\"",
+			"pwd",
+			"var hello = 'hello'",
+			"hello",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Chris/Desktop/hero_editor",
+		"/Users/Chris/Desktop/hero_editor/app"
+	],
+	"file_history":
+	[
+		"/Users/Chris/Desktop/hero_editor/app/hero.service.ts",
+		"/Users/Chris/Desktop/hero_editor/app/hero.ts",
+		"/Users/Chris/Desktop/hero_editor/styles.css",
+		"/Users/Chris/Desktop/hero_editor/app/hero-detail.component.ts",
+		"/Users/Chris/Desktop/hero_editor/app/main.ts",
+		"/Users/Chris/Desktop/hero_editor/app/heroes.component.ts",
+		"/Users/Chris/Desktop/hero_editor/app/in-memory-data.service.ts",
+		"/Users/Chris/Desktop/hero_editor/heroeditor.sublime-project",
+		"/Users/Chris/Desktop/hero_editor/hero-editor.sublime-project",
+		"/Users/Chris/Desktop/hero_editor/gruntfile.js",
+		"/Users/Chris/Desktop/hero_editor/README.md",
+		"/Users/Chris/Desktop/hero_editor/hero_editor_ts.txt",
+		"/Users/Chris/Desktop/hero_editor/app/app.routes.ts",
+		"/Users/Chris/Desktop/hero_editor/app/app.component.ts",
+		"/Users/Chris/Desktop/hero_editor/index.html",
+		"/Users/Chris/Desktop/hero_editor/app/dashboard.component.html",
+		"/Users/Chris/Desktop/hero_editor/package.json",
+		"/Users/Chris/Desktop/hero_editor/app.routes.ts",
+		"/Users/Chris/Desktop/hero_editor/app/mock-heroes.js",
+		"/Users/Chris/Desktop/hero_editor/app/mock-heroes.ts",
+		"/Users/Chris/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Chris/Desktop/hero_editor/app/hero.interface.ts",
+		"/Users/Chris/Desktop/hero_editor/.gitignore",
+		"/Users/Chris/Dropbox/Notes/MongoDB_University/wk3/_/9_deleteOneAndDeleteMany_569ef93bd8ca393add3abec3/deleteOneAndDeleteMany/app-deleteOne.js",
+		"/Users/Chris/Dropbox/Notes/MongoDB_University/wk3/_/8_insertOneAndInsertMany_569ef93bd8ca393add3abec9/insertOneAndInsertMany/app-insertMany.js",
+		"/Users/Chris/Dropbox/Notes/MongoDB_University/wk3/_/8_insertOneAndInsertMany_569ef93bd8ca393add3abec9/insertOneAndInsertMany/app.js",
+		"/Users/Chris/Dropbox/Notes/MongoDB_University/wk3/_/4_queryOperatorsInNodeJSDriver_569ef93bd8ca393add3abecf/queryOperatorsInNodeJSDriver/app.js",
+		"/Users/Chris/Dropbox/Notes/MongoDB_University/wk3/_/5_regexOperatorInNodeJSDriver_569ef93bd8ca393add3abed2/regexOperatorInNodeJSDriver/app-milestones.js",
+		"/Users/Chris/Dropbox/Notes/MongoDB_University/wk3/_/6_dotNotationInNodeJSDriver_569ef93bd8ca393add3abec6/dotNotationInNodeJSDriver/app-countries.js",
+		"/Users/Chris/Dropbox/Notes/MongoDB_University/wk3/_/7_sortSkipLimitInNodeJSDriver_569ef93bd8ca393add3abed5/sortSkipLimitInNodeJSDriver/app-sort.js",
+		"/Users/Chris/Dropbox/Notes/MongoDB_University/wk3/_/7_sortSkipLimitInNodeJSDriver_569ef93bd8ca393add3abed5/sortSkipLimitInNodeJSDriver/app-sortSkipLimit.js",
+		"/Users/Chris/Dropbox/Notes/MongoDB_University/wk3/_/homework3.3_buildingQueryDocuments_569ef31dd8ca393add3abeba/buildingQueryDocuments/buildingQueryDocuments.js",
+		"/Users/Chris/Dropbox/Notes/MongoDB_University/wk3/_/5_regexOperatorInNodeJSDriver_569ef93bd8ca393add3abed2/regexOperatorInNodeJSDriver/.#app-overview-plustags.js",
+		"/Users/Chris/Dropbox/Notes/MongoDB_University/wk3/_/projectionInNodeJSDriver/app.js",
+		"/Users/Chris/Sites/PackersPlus/Docs/ftp.txt",
+		"/Users/Chris/Dropbox/Public/email_signature/sig.html",
+		"/Users/Chris/Dropbox/Notes/WP_Security.txt",
+		"/Users/Chris/Library/Caches/Cleanup At Startup/Transmit/EBA03AD2-6A6A-4E58-A03B-CCBA227AFD1C/wp-config.php",
+		"/Users/Chris/Sites/diamondchain/_dev/.htaccess",
+		"/Users/Chris/Library/Caches/Cleanup At Startup/Transmit/A8B2F9C3-DE9A-4E2E-94B6-19BBB349A3F1/wp-config.php",
+		"/Users/Chris/Sites/diamondchain/docs/devsite.txt",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/tmpl-homepage.php",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/assets/functions/menu.php",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/parts/content-offcanvas.php",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/footer.php",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/assets/scss/_homepage.scss",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/functions.php",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/style.css",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/parts/nav-offcanvas-topbar.php",
+		"/private/var/folders/d8/g8mgjgrx705gh4rvrphkv9hc0000gn/T/TemporaryItems/(A Document Being Saved By Illustrator CC 6)/ai14665250641.tmp/ai14665250641.txt",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/parts/nav-offcanvas.php",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/header.php",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/vendor/foundation-sites/js/foundation.offcanvas.js",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/searchform.php",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/assets/scss/_helpers.scss",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/gulpfile.js",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/assets/functions/enqueue-scripts.php",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/assets/scss/_main.scss",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/assets/scss/style.scss",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/vendor/foundation-sites/scss/settings/_settings.scss",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/node_modules/yargs/yargs.js",
+		"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/vendor/foundation-sites/scss/util/_unit.scss",
+		"/Users/Chris/Library/Mobile Documents/com~apple~mail/Data/V3/MailData/Signatures/ubiquitous_D23400DB-71B1-4DFD-BB33-1E33E3935F1D.mailsignature",
+		"/Users/Chris/Library/Mail/V3/MailData/Signatures/D23400DB-71B1-4DFD-BB33-1E33E3935F1D.mailsignature",
+		"/Users/Chris/.bash_profile",
+		"/Users/Chris/Desktop/Desktop/contract.txt",
+		"/Users/Chris/Desktop/chrissatchell.com/app/views/index.hbs",
+		"/Users/Chris/Desktop/chrissatchell.com/app/routes/index.js",
+		"/Users/Chris/Desktop/chrissatchell.com/app/package.json",
+		"/Users/Chris/Desktop/chrissatchell.com/app/app.js",
+		"/Users/Chris/Desktop/chrissatchell.com/app/views/layout.hbs",
+		"/Users/Chris/Desktop/chrissatchell.com/app/public/_index.html",
+		"/Users/Chris/Desktop/chrissatchell.com/app/npm-debug.log",
+		"/Users/Chris/Library/Caches/Cleanup At Startup/Transmit/5F872B04-B689-4F17-ACC8-0AB5A18619AF/package.json",
+		"/Users/Chris/Dropbox/Notes/AWS_EC2.txt",
+		"/Users/Chris/Desktop/.bash_profile",
+		"/Users/Chris/Desktop/Vibrant Ink.jar",
+		"/Users/Chris/Desktop/ng2-quickstart/foobar/app.component.js.map",
+		"/Users/Chris/Desktop/ng2-quickstart/index.html",
+		"/Users/Chris/Desktop/ng2-quickstart/foobar/app.component.ts",
+		"/Users/Chris/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/Chris/Desktop/ng2-quickstart/package.json",
+		"/Users/Chris/Desktop/ng2-quickstart/foobar/main.ts",
+		"/Users/Chris/Desktop/ng2-quickstart/app/app.component.ts",
+		"/Users/Chris/Desktop/ng2-quickstart/systemjs.config.js",
+		"/Users/Chris/Desktop/ng2-quickstart/foobar/boot.js",
+		"/Users/Chris/Desktop/ng2-quickstart/gulpfile.js",
+		"/Users/Chris/Desktop/ng2-quickstart/boot/load.js",
+		"/Users/Chris/Desktop/ng2-quickstart/Gruntfile.js",
+		"/Users/Chris/Desktop/ng2-quickstart/gulpfile",
+		"/Users/Chris/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Chris/Desktop/ng2-quickstart/sftp-config.json",
+		"/Users/Chris/Desktop/Ionic2Project/platforms/ios/www/index.html",
+		"/Users/Chris/Desktop/Ionic2Project/platforms/ios/ios.json",
+		"/Users/Chris/Desktop/ionic-preview-app/app/app.ts",
+		"/Users/Chris/Desktop/Ionic2Project/app/pages/slides/slides.ts",
+		"/Users/Chris/Desktop/Ionic2Project/app/pages/slides/styles.scss",
+		"/Users/Chris/Desktop/Ionic2Project/app/pages/slides/slides.html",
+		"/Users/Chris/Desktop/Ionic2Project/app/app.ts",
+		"/Users/Chris/Desktop/Ionic2Project/app/pages/slides/template.html",
+		"/Users/Chris/Library/Application Support/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/Users/Chris/Desktop/Ionic2Project/app/pages/item-details/item-details.ts",
+		"/Users/Chris/Desktop/Ionic2Project/app/app.html",
+		"/Users/Chris/Desktop/Ionic2Project/app/pages/hello-ionic/hello-ionic.ts",
+		"/Users/Chris/Desktop/Ionic2Project/app/pages/hello-ionic/hello-ionic.html",
+		"/Users/Chris/Desktop/Ionic2Project/node_modules/@angular/platform-browser/platform-browser.umd.js",
+		"/Users/Chris/Desktop/Ionic2Project/www/build/pages/hello-ionic/hello-ionic.html",
+		"/Users/Chris/Desktop/Angular2NodeJS/v4/assets/app/messages/message.service.ts",
+		"/Users/Chris/Desktop/Angular2NodeJS/v4/assets/app/messages/message-list.component.ts",
+		"/Users/Chris/Desktop/Angular2NodeJS/v4/package.json",
+		"/Volumes/JetDrive/Sites/_SANDBOX/reactjs/php_checkbox/php-form-checkbox_2.php",
+		"/Volumes/JetDrive/Sites/_SANDBOX/reactjs/index.php",
+		"/Volumes/JetDrive/Sites/_SANDBOX/php/index.php",
+		"/Volumes/JetDrive/Sites/_SANDBOX/gsap/radio_checkboxes.php",
+		"/Volumes/JetDrive/Sites/_SANDBOX/flexbox/_dev/index.html",
+		"/Volumes/JetDrive/Sites/_SANDBOX/build_a_simple_dynamic_site_with_node.js/stage_4_video_2_finish/app.js",
+		"/Volumes/JetDrive/Sites/_SANDBOX/build_a_simple_dynamic_site_with_node.js/stage_4_video_2_finish/router.js",
+		"/Volumes/JetDrive/Sites/_SANDBOX/angularjs-tutorial/main.ctrl.js",
+		"/Users/Chris/Desktop/Angular2NodeJS/v4/models/message.js",
+		"/Users/Chris/Desktop/Angular2NodeJS/v4/routes/messages.js",
+		"/Users/Chris/Desktop/Angular2NodeJS/v4/assets/app/messages/message-input.component.ts",
+		"/Users/Chris/Desktop/Angular2NodeJS/v3/assets/app/messages/message.ts",
+		"/Users/Chris/Desktop/Angular2NodeJS/v3/assets/app/messages/message-list.component.ts",
+		"/Users/Chris/Desktop/Angular2NodeJS/v3/node_modules/angular2/ts/src/facade/base_wrapped_exception.ts",
+		"/Users/Chris/Desktop/Angular2NodeJS/Latest_Project_Version/assets/app/messages/message-input.component.ts",
+		"/Users/Chris/Desktop/Angular2NodeJS/Latest_Project_Version/assets/app/messages/message-list.component.ts",
+		"/Users/Chris/Desktop/Angular2NodeJS/Latest_Project_Version/routes/messages.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 289.0,
+		"where_history":
+		[
+			"",
+			"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/",
+			"",
+			"/Users/Chris/Sites/diamondchain/_dev/wp-content/themes/JointsWP/assets/functions",
+			"",
+			"/Users/Chris/Desktop/Angular2NodeJS/Latest_Project_Version/assets/app",
+			"",
+			"bower_components/*",
+			"-*.css,-bower_components/*,-_EXPORTS/*",
+			"-*.css,-bower_components/*",
+			"-*.css,-bower_components",
+			"-*.css",
+			"",
+			"/Users/Chris/Sites/LAO/_dev/wp-content/themes/lao/scss",
+			"",
+			"-*.css, -*.scss, -*.js",
+			"-*.css, -*.scss",
+			"-*.scss",
+			"",
+			"/Users/Chris/Sites/LAO/_dev/wp-content/themes/lao/scss",
+			"/Users/Chris/Sites/LAO/_dev/wp-content/themes/lao/*.php",
+			"/Users/Chris/Sites/LAO/_dev/wp-content/themes/lao/",
+			"/Users/Chris/Sites/LAO/_dev/wp-content/themes/lao/scss",
+			"",
+			"/Users/Chris/Sites/LAO/_dev/wp-content/themes/lao/scss",
+			"scss",
+			"",
+			"sass",
+			"",
+			"/Users/Chris/Sites/LAO/_dev/wp-content/themes/lao/sass",
+			"",
+			"/Users/Chris/Sites/Genisis/genesis/public/wp-content/themes/genesis/scss",
+			"",
+			"/Users/Chris/Sites/wpplugindev/wp-content/plugins/wptreehouse-badges",
+			"/Users/Chris/Sites/OPA/_dev/wp-content/themes/Omega_Phi_Alpha/bower_components/foundation/scss",
+			"",
+			"/Users/Chris/Sites/ADPi/_dev/bower_components/bootstrap-sass/assets/stylesheets/bootstrap",
+			"",
+			"/Users/Chris/Sites/ElectricIsland/_dev/wp-content/themes/electricisland2013",
+			"",
+			"/Users/Chris/Sites/enerquality/Enerquality/wp-content/themes/enerquality/scss",
+			"",
+			"/Users/Chris/Sites/STREETCAR/_dev/streetcar/public/wp-content/themes/streetcar-custom",
+			"",
+			"/Users/Chris/Sites/enerquality/Enerquality/wp-content/themes/enerquality/scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"float: left",
+			"==========",
+			"theHero",
+			"hero",
+			"db",
+			"DB",
+			"db",
+			"categories",
+			"ItemDAO",
+			"options",
+			"DISALLOW_FILE_EDIT",
+			"wp-config",
+			"primary",
+			"mobile-search-field",
+			"50",
+			"lime",
+			"dcc-industry",
+			"industry_count",
+			"submenu",
+			"top-bar-menu",
+			"top-bar",
+			"black",
+			"top-bar-left",
+			"top: .5%",
+			"themeslug_logo",
+			"logo_theme_customizer",
+			"themeslug_logo",
+			"themeslug_logo_section",
+			"themeslug_theme_customizer",
+			".lao-to-top",
+			"Menu",
+			"mobile-search-field",
+			"top-bar-left",
+			"isIE10",
+			"flexVerticalAlignMiddle",
+			"cta-create-an",
+			"cta-creat",
+			"side_adjustments",
+			"xxxsmall",
+			"pcta_index",
+			"product_ctas",
+			"dcc_ask",
+			"ctas",
+			"ask_cta_button",
+			"p>",
+			"link",
+			"p>",
+			"company_attributes",
+			"",
+			"site-logo",
+			"large-4 medium-4",
+			"footer-links",
+			"left",
+			"why create",
+			"translateY",
+			"ol ",
+			" ol",
+			"ol",
+			"line-height: 1.8",
+			"class=\"fa",
+			"</i>",
+			"<i>",
+			"dcc_industries",
+			"div",
+			"slideshow",
+			" ol",
+			"link",
+			"repeater_field_name",
+			"div",
+			"10px",
+			"outline",
+			"<img src=\"http://placehold.it/350x150\" alt=\"\" class=\"orbit-image\">",
+			"style=\"position: relative; max-height: 281px; top: 0px; display: none;\"",
+			"min",
+			"width: 100%",
+			"end",
+			"start",
+			"flex-end",
+			"end",
+			"1000",
+			".util-bar",
+			"main-nav",
+			"$global-width",
+			"75rem",
+			"75em",
+			"75",
+			"@function rem-calc",
+			"rem-calc",
+			"rem",
+			"px-to-rem",
+			"$breakpoint-classes",
+			"is-open-right",
+			"position-right",
+			"$breakpoint-classes",
+			"ifaces",
+			"var ip",
+			"index",
+			"layout",
+			"require",
+			"Message",
+			"message",
+			"console",
+			"message",
+			"data",
+			"signup",
+			"signupForm",
+			"signup",
+			"signupForm",
+			"my-auth",
+			"href=\"\"",
+			"import",
+			"@Route",
+			"firstName",
+			"import { bootstrap } from 'angular2/platform/browser';",
+			"/messages",
+			"tion class=\"col-md-8 col-md-offset-2\">\n			<form (ngSubmit)=\"onSubmit(f.value)\" #f=\"ngForm\">\n				<div class=\"form-group\">\n					<label for=\"content\">Content</label>\n					<input ngControl=\"content\" type=\"text\" class=\"form-control\" id=\"content\" #input>\n				</div>\n				<button type=\"submit\" class=\"btn btn-primary\">Send Message</button>\n			</form>\n		</se",
+			"new",
+			": string;",
+			"build-ts",
+			"query",
+			"add",
+			"movieTitle",
+			"    	\n",
+			"function(",
+			"get_sections",
+			"checkout.css",
+			"checkout",
+			"main.css"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"function (",
+			"nav-menu",
+			"http://legalaid.on.ca/images",
+			"'",
+			"",
+			"'",
+			"-",
+			"",
+			"\"",
+			"-",
+			"\"",
+			"'",
+			"<div class=\"sub-nav utility-nav\">\n							<a href=\"#\">donate</a>",
+			"<button name=\"search-submit\" type=\"submit\" id=\"search-submit\" class=\"pull-left\"><i class=\"fa fa-chevron-right\"></i></button>",
+			"<!--<li><a href=\"/complementary-services/\">Complementary Services</a></li>-->",
+			"<h3>For more information <a class=\"menu-contact\" href=\"#\">contact us</a></h3><br>",
+			"<?php include('../php/email/index.php');?>\n",
+			"<link rel=\"stylesheet\" href=\"/includes/buildingblocks_v4.css\" type=\"text/css\" media=\"screen\" />\n<link rel=\"stylesheet\" href=\"/includes/responsive.css\" type=\"text/css\" media=\"screen\" />\n",
+			"<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\n",
+			"<link rel=\"stylesheet\" href=\"/includes/buildingblocks_v4.css\" type=\"text/css\" media=\"screen\" />\n<link rel=\"stylesheet\" href=\"/includes/responsive.css\" type=\"text/css\" media=\"screen\" />\n",
+			"<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\n",
+			"<link rel=\"stylesheet\" href=\"/includes/buildingblocks_v4.css\" type=\"text/css\" media=\"screen\" />\n<link rel=\"stylesheet\" href=\"/includes/responsive.css\" type=\"text/css\" media=\"screen\" />\n",
+			"<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\n",
+			"<link rel=\"stylesheet\" href=\"/includes/buildingblocks_v4.css\" type=\"text/css\" media=\"screen\" />\n<link rel=\"stylesheet\" href=\"/includes/responsive.css\" type=\"text/css\" media=\"screen\" />",
+			"<link rel=\"stylesheet\" href=\"/includes/buildingblocks_v4.css\" type=\"text/css\" media=\"screen\" />\n<link rel=\"stylesheet\" href=\"/includes/responsive.css\" type=\"text/css\" media=\"screen\" />\n",
+			"<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\n",
+			"<link rel=\"stylesheet\" href=\"/includes/buildingblocks_v4.css\" type=\"text/css\" media=\"screen\" />\n<link rel=\"stylesheet\" href=\"/includes/responsive.css\" type=\"text/css\" media=\"screen\" />",
+			"<link rel=\"stylesheet\" href=\"/includes/buildingblocks_v4.css\" type=\"text/css\" media=\"screen\" />\n<link rel=\"stylesheet\" href=\"/includes/responsive.css\" type=\"text/css\" media=\"screen\" />\n",
+			"<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\n",
+			"<link rel=\"stylesheet\" href=\"/includes/buildingblocks_v4.css\" type=\"text/css\" media=\"screen\" />\n<link rel=\"stylesheet\" href=\"/includes/responsive.css\" type=\"text/css\" media=\"screen\" />\n",
+			"<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\n",
+			"<link rel=\"stylesheet\" href=\"/includes/buildingblocks_v4.css\" type=\"text/css\" media=\"screen\" />\n<link rel=\"stylesheet\" href=\"/includes/responsive.css\" type=\"text/css\" media=\"screen\" />",
+			"<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\n",
+			"",
+			".dateBuy",
+			"$egreen",
+			"$mobile_width",
+			"\\'",
+			"'",
+			"\\'",
+			"\"",
+			"http://n.52pick-up.com/harmonyvillage/2015_02_18/images/",
+			"",
+			"<?php include('../php/liveperson_monitor/index.php');?>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/heroes.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3162,
+								3166
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 326.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/hero.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31130,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										149,
+										160
+									],
+									[
+										315,
+										326
+									],
+									[
+										489,
+										500
+									],
+									[
+										665,
+										676
+									],
+									[
+										869,
+										880
+									],
+									[
+										1103,
+										1114
+									],
+									[
+										1342,
+										1353
+									],
+									[
+										1585,
+										1596
+									],
+									[
+										1829,
+										1840
+									],
+									[
+										1938,
+										1949
+									],
+									[
+										2083,
+										2094
+									],
+									[
+										2219,
+										2230
+									],
+									[
+										2326,
+										2337
+									],
+									[
+										2488,
+										2499
+									],
+									[
+										2598,
+										2609
+									],
+									[
+										2699,
+										2710
+									],
+									[
+										2828,
+										2839
+									],
+									[
+										2908,
+										2919
+									],
+									[
+										3048,
+										3059
+									],
+									[
+										3133,
+										3144
+									],
+									[
+										3265,
+										3276
+									],
+									[
+										3415,
+										3426
+									],
+									[
+										3552,
+										3563
+									],
+									[
+										3698,
+										3709
+									],
+									[
+										3796,
+										3807
+									],
+									[
+										3895,
+										3906
+									],
+									[
+										4085,
+										4096
+									],
+									[
+										4233,
+										4244
+									],
+									[
+										4447,
+										4458
+									],
+									[
+										4743,
+										4754
+									],
+									[
+										5070,
+										5081
+									],
+									[
+										5263,
+										5274
+									],
+									[
+										5342,
+										5353
+									],
+									[
+										5566,
+										5577
+									],
+									[
+										5640,
+										5651
+									],
+									[
+										5808,
+										5819
+									],
+									[
+										6084,
+										6095
+									],
+									[
+										6242,
+										6253
+									],
+									[
+										6424,
+										6435
+									],
+									[
+										6606,
+										6617
+									],
+									[
+										6899,
+										6910
+									],
+									[
+										7114,
+										7125
+									],
+									[
+										7319,
+										7330
+									],
+									[
+										7557,
+										7568
+									],
+									[
+										7776,
+										7787
+									],
+									[
+										7942,
+										7953
+									],
+									[
+										8095,
+										8106
+									],
+									[
+										8248,
+										8259
+									],
+									[
+										8507,
+										8518
+									],
+									[
+										8707,
+										8718
+									],
+									[
+										23776,
+										23787
+									],
+									[
+										24170,
+										24181
+									],
+									[
+										24512,
+										24523
+									],
+									[
+										24975,
+										24986
+									],
+									[
+										25083,
+										25094
+									],
+									[
+										25333,
+										25344
+									],
+									[
+										25563,
+										25574
+									],
+									[
+										25771,
+										25782
+									],
+									[
+										26122,
+										26133
+									],
+									[
+										26222,
+										26233
+									],
+									[
+										26491,
+										26502
+									],
+									[
+										27093,
+										27104
+									],
+									[
+										27258,
+										27269
+									],
+									[
+										27786,
+										27797
+									],
+									[
+										28079,
+										28090
+									],
+									[
+										28275,
+										28286
+									],
+									[
+										28581,
+										28592
+									],
+									[
+										28764,
+										28775
+									],
+									[
+										28876,
+										28887
+									],
+									[
+										29095,
+										29106
+									],
+									[
+										29365,
+										29376
+									],
+									[
+										29528,
+										29539
+									],
+									[
+										29685,
+										29696
+									],
+									[
+										29871,
+										29882
+									],
+									[
+										29999,
+										30010
+									],
+									[
+										30106,
+										30117
+									],
+									[
+										30274,
+										30285
+									],
+									[
+										30395,
+										30406
+									],
+									[
+										30529,
+										30540
+									],
+									[
+										30672,
+										30683
+									],
+									[
+										30835,
+										30846
+									],
+									[
+										31040,
+										31051
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								671,
+								671
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/hero-detail.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1339,
+								1343
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 340.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "heroeditor.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"grun",
+				"gruntfile.js"
+			],
+			[
+				"grunt",
+				"gruntfile.js"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"sty",
+				"styles.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"hero",
+				"app/hero-detail.component.ts"
+			],
+			[
+				"app.",
+				"app/app.routes.ts"
+			],
+			[
+				"heroes",
+				"app/heroes.component.ts"
+			],
+			[
+				"",
+				"app/dashboard.component.ts"
+			],
+			[
+				"dash",
+				"app/dashboard.component.html"
+			],
+			[
+				"hero-de",
+				"app/hero-detail.component.ts"
+			],
+			[
+				"app",
+				"app/app.component.ts"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"tmpl",
+				"tmpl-homepage.php"
+			],
+			[
+				"_home",
+				"assets/scss/_homepage.scss"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"heade",
+				"header.php"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"off",
+				"parts/content-offcanvas.php"
+			],
+			[
+				"nav",
+				"parts/nav-offcanvas-topbar.php"
+			],
+			[
+				"sea",
+				"searchform.php"
+			],
+			[
+				"sear",
+				"searchform.php"
+			],
+			[
+				"menu",
+				"assets/functions/menu.php"
+			],
+			[
+				"f",
+				"functions.php"
+			],
+			[
+				"home",
+				"tmpl-homepage.php"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"homepage.s",
+				"assets/scss/_homepage.scss"
+			],
+			[
+				"heaer",
+				"header.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"offcanvas",
+				"parts/content-offcanvas.php"
+			],
+			[
+				"homepage.",
+				"assets/scss/_homepage.scss"
+			],
+			[
+				"homepage",
+				"tmpl-homepage.php"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"bow",
+				"bower.json"
+			],
+			[
+				"pag",
+				"app/package.json"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"message.ser",
+				"assets/app/messages/message.service.ts"
+			],
+			[
+				"routes/",
+				"routes/messages.js"
+			],
+			[
+				"mess",
+				"models/message.js"
+			],
+			[
+				"messs",
+				"routes/messages.js"
+			],
+			[
+				"message",
+				"routes/messages.js"
+			],
+			[
+				"message-list",
+				"assets/app/messages/message-list.component.ts"
+			],
+			[
+				"route/",
+				"routes/messages.js"
+			],
+			[
+				"boot",
+				"assets/app/boot.ts"
+			],
+			[
+				"message-in",
+				"assets/app/messages/message-input.component.ts"
+			],
+			[
+				"message-li",
+				"public/tmpl/message-list.component.html"
+			],
+			[
+				"sign",
+				"assets/app/signup.component.ts"
+			],
+			[
+				"auth",
+				"assets/app/auth/authentication.component.ts"
+			],
+			[
+				"signup",
+				"assets/app/signup.component.ts"
+			],
+			[
+				"signuo",
+				"assets/app/signup.component.ts"
+			],
+			[
+				"log",
+				"assets/app/auth/logout.component.ts"
+			],
+			[
+				"messages",
+				"assets/app/messages/messages.component.ts"
+			],
+			[
+				"_help",
+				"_dev/css/_helpers.scss"
+			],
+			[
+				"ine",
+				"index.html"
+			],
+			[
+				"product-list.co",
+				"app/products/product-list.component.ts"
+			],
+			[
+				"product-list",
+				"app/products/product-list.component.html"
+			],
+			[
+				"sio",
+				"sio/sio-server.js"
+			],
+			[
+				"ws-",
+				"socket/ws-client.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"form",
+				"public/form.html"
+			],
+			[
+				"col",
+				"collecting_POST_data.js"
+			],
+			[
+				"html",
+				"public/index.html"
+			],
+			[
+				"chat",
+				"_assets/chat.log"
+			],
+			[
+				"ren",
+				"renameing_directories.js"
+			],
+			[
+				"wri",
+				"writing_appending_files_readline.js"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"rea",
+				"readme.txt"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"globa",
+				"scss/global.scss"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"gr",
+				"gruntfile.js"
+			],
+			[
+				"top",
+				"scss/_top-bar.scss"
+			],
+			[
+				"mix",
+				"scss/_mixins.scss"
+			],
+			[
+				"_global",
+				"scss/_global.scss"
+			],
+			[
+				"_top",
+				"scss/_top-bar.scss"
+			],
+			[
+				"script",
+				"js/scripts.js"
+			],
+			[
+				"scr",
+				"js/scripts.js"
+			],
+			[
+				"_helper",
+				"scss/_helpers.scss"
+			],
+			[
+				"_toab",
+				"scss/_top-bar.scss"
+			],
+			[
+				"_globa",
+				"scss/_global.scss"
+			],
+			[
+				"_blo",
+				"bower_components/foundation/scss/foundation/components/_block-grid.scss"
+			],
+			[
+				"wp-pag",
+				"wp-pagination.css"
+			],
+			[
+				"style.c",
+				"style.css"
+			],
+			[
+				"sub",
+				"scss/_subpages.scss"
+			],
+			[
+				"_glo",
+				"scss/_global.scss"
+			],
+			[
+				"_glov",
+				"node_modules/jquery/src/manipulation/setGlobalEval.js"
+			],
+			[
+				"plu",
+				"js/plugins.js"
+			],
+			[
+				"scrip",
+				"js/scripts.js"
+			],
+			[
+				"wp",
+				"wp-pagination.css"
+			],
+			[
+				"fol",
+				"inc/report/content-folders.php"
+			],
+			[
+				"help",
+				"scss/_helpers.scss"
+			],
+			[
+				"_sub",
+				"scss/_subpages.scss"
+			],
+			[
+				"_gl",
+				"scss/_global.scss"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"subpage",
+				"scss/_subpages.scss"
+			],
+			[
+				"tab",
+				"inc/global/content-tabs.php"
+			],
+			[
+				"subpa",
+				"scss/_subpages.scss"
+			],
+			[
+				"helper",
+				"scss/_helpers.scss"
+			],
+			[
+				"_glob",
+				"scss/_global.scss"
+			],
+			[
+				"side",
+				"sidebar.php"
+			],
+			[
+				"_t",
+				"scss/_top-bar.scss"
+			],
+			[
+				"scri",
+				"js/scripts.js"
+			],
+			[
+				"style.",
+				"style.css"
+			],
+			[
+				"_subpage",
+				"scss/_subpages.scss"
+			],
+			[
+				"arch",
+				"archive.php"
+			],
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"helpe",
+				"scss/_helpers.scss"
+			],
+			[
+				"content-page",
+				"inc/global/content-page-header.php"
+			],
+			[
+				"hel",
+				"scss/_helpers.scss"
+			],
+			[
+				"topbar",
+				"top-bar.html"
+			],
+			[
+				"content-single",
+				"inc/content-single.php"
+			],
+			[
+				"single",
+				"single.php"
+			],
+			[
+				"top-b",
+				"scss/_top-bar.scss"
+			],
+			[
+				"subp",
+				"scss/_subpages.scss"
+			],
+			[
+				"_subp",
+				"scss/_subpages.scss"
+			],
+			[
+				"_h",
+				"scss/_homepage.scss"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"_g",
+				"scss/_global.scss"
+			],
+			[
+				"fuh",
+				"node_modules/grunt-sass/node_modules/node-sass/src/libsass/functions.hpp"
+			],
+			[
+				"content-sing",
+				"inc/content-single-report.php"
+			],
+			[
+				"_su",
+				"scss/_subpages.scss"
+			],
+			[
+				"glob",
+				"scss/_global.scss"
+			],
+			[
+				"funct",
+				"functions.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

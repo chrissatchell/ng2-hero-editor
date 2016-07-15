@@ -1,12 +1,13 @@
 {
-    "folders": [{
-        "path": ".",
-        "folder_exclude_patterns": [
-        	".js",".svn", "._d", ".metadata", ".settings",
-        	".dockerignore",".editorconfig","e2e","typings"
-        ],
-        "file_exclude_patterns": [
-        	"*.js","*.pyc", "*.pyo", ".project", ".*", "*.map",
-        	"CHANGELOG*","LICENSE","Dockerfile","*.spec*"]
-    }]
-}
+	"folders": [{
+		"path": ".",
+		"folder_exclude_patterns": [
+		".js",".svn", "._d", ".metadata", ".settings",
+		".dockerignore",".editorconfig","e2e","typings"
+		],
+		"file_exclude_patterns": [
+		"*.js","*.pyc", "*.pyo", ".project", ".*", "*.map",
+		"CHANGELOG*","LICENSE","Dockerfile","*.spec*"]
+		}]
+
+	}
